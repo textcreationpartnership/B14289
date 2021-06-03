@@ -1,0 +1,2493 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The masque of queenes celebrated from the house of fame: by the most absolute in all state, and titles. Anne Queene of Great Britaine, &amp;c. With her honourable ladies. At VVhite Hall, Febr. 2. 1609. Written by Ben: Ionson.</title>
+            <author>Jonson, Ben, 1573?-1637.</author>
+         </titleStmt>
+         <extent>Approx. 92KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14289</idno><idno type="EEBO-CITATION">99844873</idno>
+  <idno type="VID">173152</idno>
+  <idno type="EEBO-PROQUEST">2240875489</idno>
+  <idno type="STC">STC 14778</idno>
+  <idno type="STC">ESTC S109223</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99844873e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14289)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173152)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 757:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The masque of queenes celebrated from the house of fame: by the most absolute in all state, and titles. Anne Queene of Great Britaine, &amp;c. With her honourable ladies. At VVhite Hall, Febr. 2. 1609. Written by Ben: Ionson.</title>
+                  <author>Jonson, Ben, 1573?-1637.</author>
+               </titleStmt>
+               <extent>[42] p.   </extent>
+               <publicationStmt>
+                  <publisher>By N. Okes. for R. Bonian and H. VVally, and are to be sold at the Spred Eagle in Poules Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1609.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴ (-A2, +F2) B-E⁴ F²  (-F2).</note>
+                  <note>The first leaf is blank.</note>
+                  <note>The title page is a cancel (printed as F2).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Masques --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173152:1"/>
+            <p>THE MASQVE OF QVEENES Celebrated <hi>From the House of Fame:</hi> By the most absolute in all State, And Titles.</p>
+            <p>ANNE Queene of Great <hi>Britaine,</hi> &amp;c. With her Honourable Ladies. <hi>At VVhite Hall,</hi>
+            </p>
+            <p>Febr. 2. 1609.</p>
+            <p>Written by BEN: IONSON.</p>
+            <p>
+               <hi>Et memorem famam, quae bene gessit, habet.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by N. ORES. for <hi>R. Bon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an</hi> and <hi>H. VVally,</hi> and are to be sold at the Spred Eagle in Poules Church-yard. 1609.</p>
+         </div>
+         <div type="holograph_dedication">
+            <pb facs="tcp:173152:2"/>
+            <head>To her sacred Maiestie.</head>
+            <opener>
+               <salute>Most excellent of Queenes,</salute>
+            </opener>
+            <p>The same zeale, that studied to make this Invention worthy of yo<seg rend="sup">r</seg> Maiestyes Name, hath since bene carefull to give it life, and authority: that, what could then be obiected to sight but of a few, might not be defrauded of the applause due to it from all. And, because Princes (out of a religious respect to they<seg rend="sup">r</seg> modesty) may wiselye refuse to be the publique patrons of they<seg rend="sup">r</seg> owne actions; I chose him, that is the next yo<seg rend="sup">r</seg> sacred Person, and might the worthiest of Mankind give it proper, and naturall defence. The rather since it was his Highnesse command, to haue mee adde this second labor of annotation to my first of Invention: and both to the honor of yo<seg rend="sup">r</seg> Maiesty.</p>
+            <closer>Wherein a hearty desire to please deserues not to offend. By
+<signed>the most loyall, and zealous, to y<seg rend="sup">or</seg> Ma<seg rend="sup">ties</seg>
+                  <unclear>seruice, Ben Jonson</unclear>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173152:2"/>
+            <head>To the Glory of our owne, and griefe of other Nations.</head>
+            <head type="sub">My Lord HENRY Prince of great <hi>Brittaine,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEN it hath beene my happinesse (as would it were more frequent) but to see your face, and, as passing by, to consider you; I haue with as much ioy, as I am now farre from flattery in professing it, cal'd to mind that doctrine of some great In<g ref="char:EOLhyphen"/>quisitors in <hi>Nature,</hi> who hold euery royall &amp; <hi>heroique</hi> forme to partake and draw much to it of the heauenly vertue. For, whether it be that a diuine soule, being to come into a body, first chooseth a palace for it selfe; or, being come, doth make it so; or that <hi>Nature</hi> be ambitious to haue her worke equal; I know not: But what is lawful for me to vnderstand, &amp; speak, that I dare; which is, that both your <hi>Vertue</hi> &amp; your <hi>For me</hi> did deserue your <hi>Fortune.</hi> The one claim'd that you should bee borne a <hi>Prince,</hi> the other makes that you do become it. And when <hi>Necessity</hi> (excellent Lord) the mother of the <hi>Fates,</hi> hath so prouided, that your <hi>Forme</hi> should not more insinuate you to the eies of men, then your <hi>Vertue</hi> to their mindes: it comes neere a wonder to thinke how sweetly that habite flowes in you, and with so hourely testimonies, which to all posterity might hold the dignity of examples. Amongst the rest, your fauour to letters, and these gentler studies, that goe vnder the title of <hi>Humanitie,</hi> is not the least honor of your wreath. For, if once the worthy Prosessors of these learnings shall come (as heretofore they were) to be the care of <hi>Princes,</hi> the Crownes, their <hi>Soueraignes</hi> weare, will not more adorne their temples;
+<pb facs="tcp:173152:3"/>nor their stamps liue longer in their Medals, then in such subiects labours. <hi>Poetry,</hi> my Lord, is not borne with euery man; nor euery day: And in her generall right, it is now my minute to thanke your <hi>Highnesse,</hi> who not only do honor her with your eare, but are curious to examine her with your eye, and inquire into her beauties, and strengthes. Where though it hath prou'd a worke of some difficulty to me, to re<g ref="char:EOLhyphen"/>trine the particular <hi>Authorities</hi> (according to your gracious command, and a desire borne out of iudgement) to those things, which I writ out of fulnesse, and memory of my for<g ref="char:EOLhyphen"/>mer readings: yet, now I haue ouercome it, the reward, that meetes me, is double to one act: which is, that thereby your excellent vnderstanding will not onely iustifie me to your owne knowledge, but decline the stiffenesse of others origi<g ref="char:EOLhyphen"/>nall ignorance, already arm'd to censure. For, which singular bounty, if my <hi>Fate</hi> (most excellent <hi>Prince,</hi> and <hi>onely Delicacy</hi> of <hi>Man-kind</hi>) shall reserue me to the Age of your Actions, whether in the Campe, or the Councell-chamber, that I may write, at nights, the deedes of your dayes: I will then labour to bring forth some worke as worthy of your fame, as my ambition therein is of your pardon.</p>
+            <closer>
+               <signed>By the most true admirer of your <hi>Highnesse</hi> vertues, And most hearty Celebrater of them, BEN: IONSON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="masque">
+            <pb facs="tcp:173152:3"/>
+            <head>THE MASQVE OF QVEENES.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T increasing, now, to the third time of my being vs'd in these seruices to her <hi>Maiesties</hi> personall presentations, with the <hi>Ladyes</hi> whom she pleaseth to ho<g ref="char:EOLhyphen"/>nor; it was my first &amp; speciall regard, to see that the Nobility of the inuention should bee answerable to the dignity of their persons, For which reason I chose the argument, to be, <hi>A celebra<g ref="char:EOLhyphen"/>tion of honorable, and true Fame, bred out of Vertue:</hi> obser<g ref="char:EOLhyphen"/>uing that rule of the
+<note n="a" place="margin">Hor. in Art. Poetic.</note> best Artist, to suffer no obiect of delight to passe without his mixture of profit &amp; exam<g ref="char:EOLhyphen"/>ple. And because her <hi>Maiestie</hi> (best knowing, that a prin<g ref="char:EOLhyphen"/>cipall part of life, in these <hi>Spectacles,</hi> lay in their variety) had cōmanded me to think on some <hi>Dance</hi> or shew, that might praecede hers, &amp; haue the place of a foile or false <hi>Masque;</hi> I was carefull to decline, not only from others, but mine owne steps in that kind, since the
+<note n="b" place="margin">In the <hi>Masqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> at my <hi>L. Hadding.</hi> wedding.</note> last yeare, I had an <hi>Anti-masque</hi> of Boyes: and therfore now, deuis'd, that twelue Women, in the habit of <hi>Hags,</hi> or <hi>Witches,</hi> sus<g ref="char:EOLhyphen"/>taining the persons of <hi>Ignorance, Suspition, Credulity. &amp;c.</hi> the opposits to good <hi>Fame,</hi> should fill that part; not as a <hi>Masque,</hi> but a Spectacle of strangenes, producing multi<g ref="char:EOLhyphen"/>plicitie of gesture, and not vnaptly sorting with the cur<g ref="char:EOLhyphen"/>rent, and whole fall of the deuise.</p>
+            <p>His <hi>Maiestie,</hi> then, being set, and the whole com<g ref="char:EOLhyphen"/>pany in full expectation, the part of the <hi>Scene</hi> which first presented it selfe was an ougly <hi>Hell:</hi> which
+<pb facs="tcp:173152:4"/>flaming beneath, smoaked vnto the top of the Roofe. And in respect all <hi>Euils</hi> are, <hi>morally,</hi> said to come from <hi>Hell;</hi> as also from that obseruation of <hi>Torrentius</hi> vpon <hi>Horace</hi> his <hi>Canidia,</hi>
+               <note n="c" place="margin">
+                  <hi>Ʋid. Laeuin. Tor. Comment. in Hor. Epod. lib. Oae.</hi> 5.</note>
+               <hi>quae tot instruct a venenis, ex Orci faucibus profecta videri possit:</hi> These Witches, with a kinde of hollow and infernall musique, came forth from thence. First one, then two, and three, and more, till their number increased to eleuen; all diffe<g ref="char:EOLhyphen"/>rently attir'd: some with Rats on their heads; some on their shoulders; others with ointment pots at their gir<g ref="char:EOLhyphen"/>dles; All with spindles, timbrels, rattles, or other <hi>venefi<g ref="char:EOLhyphen"/>cal</hi> instrumēts, making a confused noise, with strange ge<g ref="char:EOLhyphen"/>stures. The deuise of their attire was M<seg rend="sup">r</seg>. <hi>Iones</hi> his, with the inuention, &amp; <hi>Architecture</hi> of the whole <hi>Scene,</hi> &amp; <hi>Ma<g ref="char:EOLhyphen"/>chine.</hi> Onely, I prescrib'd them their <hi>Properties</hi> of Vipers, Snakes, Bones, Hearbs, Rootes, and other Ensignes of their <hi>Magick,</hi> out of the authority of auncient and late <hi>VVriters,</hi> wherein the faults are mine, if there bee any found; and for that cause I confesse them.</p>
+            <div type="scene">
+               <p>These eleuen Witches beginning to dance (which is an vsual
+<note n="d" place="margin">See the <hi>Kings Maiest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es</hi> booke, (our <hi>Soueraigne</hi>) of <hi>Damonologie. Bo<g ref="char:EOLhyphen"/>din. Remig. Delr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o. Mal: Maleft.</hi> And a world of others, in the generall: But let vs follow particulars.</note>
+                  <hi>Ceremony</hi> at their <hi>Conuents,</hi> or meetings, where sometimes also they are vizarded, and masqu'd) on the sodaine, one of them missed their <hi>Chiefe,</hi> and interrupted the rest, with this speech.</p>
+               <sp>
+                  <l>
+                     <hi>SIsters, stay, we want our</hi>
+                     <note n="e" place="margin">Amongst our vulgar Witches, the honor of <hi>Dame</hi> (for so I translate it) is gi<g ref="char:EOLhyphen"/>uen with a kind of preheminence to some speciall one at their meetings: which <hi>Delrio</hi> insinuates, <hi>Disquis. Mag. Lib.</hi> 2. <hi>Qu.</hi> 9. quoting that of <hi>Apuleius. Lib. de Asin. anreo. de quadam taupena, Regina Sagarum.</hi> And addes, <hi>vt scias etiam tum quasdam ab ijs hoc ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ulo honorata<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi> Which title M. <hi>Philippe Ludvvigus Elich. Damonomagia. Quest.</hi> 10. doth also remember.</note> Dame;</l>
+                  <l>
+                     <hi>Call vpon her by her name,</hi>
+                  </l>
+                  <l>
+                     <hi>And the</hi> Charme <hi>we vse to say,</hi>
+                  </l>
+                  <l>
+                     <hi>That she quickly</hi>
+                     <note n="f" place="margin">When they are to bee transported from place to place, they vse to annoint themselues, and some<g ref="char:EOLhyphen"/>times, the things they ride on. Beside <hi>Apule.</hi> testimony, See these later. <hi>Remig, Demonolatria. lib.</hi> 1. <hi>Cap.</hi> 14. <hi>Delrio. Disquis. Mag. lib.</hi> 2. <hi>Quest.</hi> 16. <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>din. Damonoman, lib.</hi> 2. <hi>Cap.</hi> 4. <hi>Barthol. de spina. quest. de Strigib, Philiope Ludovigus Elich. Quest.</hi> 10. <hi>Paracelsus in magn. &amp; <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>cul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Philosophia,</hi> teacheth the confection. <hi>Vn<g ref="char:EOLhyphen"/>guantum <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> carne recent natorum infantium, in prelmenti forma coctum, &amp; cum herbit semniseri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>les sunt Pa<g ref="char:EOLhyphen"/>pauer, Solanmn, Cicuta, &amp;c.</hi> And <hi>Ioa. Bapti. Porta. lib.</hi> 2. <hi>Mag. Natur. Cap.</hi> 26.</note>
+                     <hi>annoint, and come away.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <lg type="magic_spell">
+                     <pb facs="tcp:173152:4"/>
+                     <head>1 CHARME.</head>
+                     <l>DAme, Dame, <hi>the Watch is set:</hi>
+                     </l>
+                     <l>
+                        <hi>Quickly come, we all are met.</hi>
+                     </l>
+                     <l>
+                        <note n="g" place="margin">These pla<g ref="char:EOLhyphen"/>ces in their owne nature dire, and disinall, are rec<g ref="char:EOLhyphen"/>kon'd vp, as the sittest frō whence such persons should come: and were notably ob<g ref="char:EOLhyphen"/>serued by that ex<g ref="char:EOLhyphen"/>cellent <hi>Lucan,</hi> in the description of his <hi>Ericth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>; lib.</hi> 6. To which wee may adde this corollary out of <hi>Agrip. de o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>cult. philosop. lib.</hi>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. <hi>cap.</hi> 48, <hi>Saturne cōrrespendent loca quanis f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>
+                              <g ref="char:EOLhyphen"/>tida, tenebrosa, subterranea, religiosa &amp; fanesta, vt eamiteria, busta, &amp; hominibus deserta habitacula, &amp; veteslate <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>aduca, loca obscura, &amp; horrenda, &amp; sol tarta antrae, cauerna, putei; Praeterea piscina, stagna, paludes, &amp; eius<g ref="char:EOLhyphen"/>modi.</hi> And <hi>in lib.</hi> 3. <hi>cap.</hi> 42. speaking of the like and in <hi>lib.</hi> 4. about the end, <hi>Aptis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ma sunt loca pluri<g ref="char:EOLhyphen"/>mum expirtentia visionum, nocturnarumque in cursionum &amp; constimilium phantasmaet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>m, vt camiteria, &amp; in quibus fieri solent executio &amp; criminalis iudicij, in quibut recentibus annis publicae strages factae sunt, vel vbi occisor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>m <gap reason="illegible" resp="#keyers" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> dauera, necedum expiata, nec ritè sepulta recentioribus annis subnumata sunt.</hi>
+                        </note>
+                        <hi>From the lakes, and from the fennes,</hi>
+                     </l>
+                     <l>
+                        <hi>From the recks, and from the dennes,</hi>
+                     </l>
+                     <l>
+                        <hi>From the woods, and from the caues,</hi>
+                     </l>
+                     <l>
+                        <hi>From the church-yeards, from the graues,</hi>
+                     </l>
+                     <l>
+                        <hi>From the dungeon, from the tree</hi>
+                     </l>
+                     <l>
+                        <hi>That they dye on, here are we.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <l>
+                     <hi>Comes she not yet?</hi>
+                  </l>
+                  <l>
+                     <hi>Strike another heate.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <lg type="magic_spell">
+                     <head>2 CHARME.</head>
+                     <l>
+                        <hi>THe weather is faire, the winde is good,</hi>
+                     </l>
+                     <l>
+                        <hi>Vp</hi> Dame, <hi>o'your</hi>
+                        <note n="h" place="margin">
+                           <hi>Delrio. Disq. Mag. lib.</hi> 2. <hi>Quest.</hi> 6. has a sto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y out of <hi>Triezius</hi> of this horse of wood: but that which out Witches call so, is sometimes a broome-staffe, sometime à reede sometime a di<g ref="char:EOLhyphen"/>staffe. See <hi>Rom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>g. Daemonol. lib.</hi>
+                           <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                           <hi>cap.</hi> 14. <hi>Bodin liv.</hi> 2. <hi>cap.</hi> 4. <hi>&amp;c.</hi>
+                        </note>
+                        <hi>horse of wood:</hi>
+                     </l>
+                     <l>
+                        <hi>Or else, tucke vp your gray frock,</hi>
+                     </l>
+                     <l>
+                        <hi>And saddle your</hi>
+                        <note n="i" place="margin">The Goat is the diuel himself vpō whom they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ide often to their so<g ref="char:EOLhyphen"/>le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mities, as ap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> pea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>es by their confessions in <hi>Rem.</hi> and <hi>Bodin. ibid.</hi> His <hi>Maiestie</hi> also remembers the storie of the Diuels appearance to those of <hi>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>licut,</hi> in that forme. <hi>Damenol. lib.</hi> 2. <hi>cap.</hi> 3.</note>
+                        <hi>Goat, or your greene</hi>
+                        <note n="k" place="margin">Of the greene Cock, we haue no other ground (to confesse ingenuously) than a vulgar fable of a Witch, that with a Cock of that colour, and a bottome of blew thred, would transport her selfe through <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>aire; and so escaped (at the time of her being brought to execution) from the hand of Iustice. It was a tale when I went to schoole, And somewhat there is like it, in <hi>Mar. Delr. Disqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. Mag. lib.</hi> 2. <hi>Quast</hi> 6. of one <hi>Zijto,</hi> a <hi>Bohemian,</hi> that, among other his dexterities, <hi>aliquoties equis rhedarijs vectum, gallis gallinaceis ad <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nkedium sisum alligatis, subsequebatur.</hi>
+                        </note>
+                        <hi>Cock,</hi>
+                     </l>
+                     <l>
+                        <hi>And make his bridle a bottome of thrid,</hi>
+                     </l>
+                     <l>
+                        <hi>To rowle vp how many miles you haue rid.</hi>
+                     </l>
+                     <pb facs="tcp:173152:5"/>
+                     <l>
+                        <hi>Quickly come away;</hi>
+                     </l>
+                     <l>
+                        <hi>For we, all, stay.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <l>
+                     <hi>Nor yet? Nay, then,</hi>
+                  </l>
+                  <l>
+                     <hi>VVee'll try her agen.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <lg type="magic_spell">
+                     <head>3. CHARME.</head>
+                     <l>
+                        <hi>THe Owle is abroad, the Bat, and the Toad,</hi>
+                     </l>
+                     <l>
+                        <hi>And so is the Cat-a-mountaine;</hi>
+                     </l>
+                     <l>
+                        <hi>The Ant, and the Mole sit both in a hole,</hi>
+                     </l>
+                     <l>
+                        <hi>And Frogge peepes out o'the fountaine;</hi>
+                     </l>
+                     <l>
+                        <hi>The Dogges, they do bay, and the Timbrels play,</hi>
+                     </l>
+                     <l>
+                        <hi>The</hi>
+                        <note n="l" place="margin">All this is but a <hi>Per<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>phrasis</hi> of the might, in their charme, and their applying themselues to it with their i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> stru<g ref="char:EOLhyphen"/>ments, whereof the Spindle in <hi>An tiquitie,</hi> was the cheife; and beside the testimonie of <hi>Theocritus, in Phar<g ref="char:EOLhyphen"/>maceutria,</hi> (vvho onely vs'd it in a<g ref="char:EOLhyphen"/>morous affaires) vvas of speciall act to the trou<g ref="char:EOLhyphen"/>bling of the Moone. To which <hi>Martiall</hi> alludes, <hi>lib.</hi> 9 <hi>ept.</hi> 30. <hi>Q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>a<g ref="char:EOLhyphen"/>nunc Thess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>l<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>o lu<g ref="char:EOLhyphen"/>nā deducere rhom<g ref="char:EOLhyphen"/>bo, &amp;c.</hi> And <hi>lib.</hi> 12. <hi>Epig.</hi> 57. <hi>Cum secta Colcke Luna vapa<g ref="char:EOLhyphen"/>lat rhom<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>.</hi>
+                        </note>
+                        <hi>Spindle is now a turning;</hi>
+                     </l>
+                     <l>
+                        <hi>The Moone it is red, and the Starres are fled,</hi>
+                     </l>
+                     <l>
+                        <hi>But all the Sky is a burning:</hi>
+                     </l>
+                     <l>
+                        <hi>The</hi>
+                        <note n="m" place="margin">This <hi>rate</hi> also of making a d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tch with their nailes, is frequent with our witches<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> whereof see <hi>Bodin. Remig. Delrio. Mal<g ref="char:EOLhyphen"/>leus Mal. Godelmā<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> lib.</hi> 2. <hi>de lamijs,</hi> as also the antiquitie of it most viuely exprest by <hi>Horac. Satir.</hi> 8. <hi>lib.</hi> 1. where he mentions the pictures, and the blood of a black Lamb; All vvhich are yet in vse vvith our moderne witchcraft. <hi>Scalpe<g ref="char:EOLhyphen"/>re terram</hi> (speaking of <hi>Canidia,</hi> &amp; <hi>Sagana) Vnguibus, &amp; pullam duellere mordicus agnam Coeperunt: Cruor in fos<g ref="char:EOLhyphen"/>sam confusus, vt inde Maneis elicerent animas responsa daturas. Lanea &amp; effig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>es erat, altera cerea; &amp;c. And</hi> then, by and by, <hi>Serpentesat{que} videres Infernas errare caneis, Lunam{que} rubentem, Ne foret his testis, post magna lerere se pulchra.</hi> Of this ditch <hi>Homer</hi> makes mentiō in <hi>Circes</hi> speech to <hi>Vlysses: Odiss</hi> K. about the end. <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. <hi>&amp;c. </hi> And <hi>Ouid, Metam. lib.</hi> 7 <hi>in Medeas Magick Hond procul egestâ scrobibus tellure duabus Sacra facit, cultros{que} in gut ture velleris atri Conijcit, &amp; patulas perfundit sanguine fessas.</hi> And of the vvaxen Images, in <hi>Hypsipyles</hi> epistle to <hi>Iason,</hi> vvhere he expresseth that mischiefe also of the needles <hi>Deuouet absentes, simulocra{que} cerea fingit, Et mise<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> rum tenues in iecur vrget acus. Bodin. Daemon. lib.</hi> 2. <hi>cap.</hi> 8. hath (beside the knowne story of King <hi>Duffe</hi> ou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> of <hi>Hector Boetius</hi>) much of the witches later practise in that kind, and reports a relation of a <hi>Frent<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap> Ambassadours,</hi> out of <hi>England,</hi> of certaine pictures of wax found in a dungh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll, neere <hi>Isl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ngton,</hi> of our lat<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                           <hi>Queenes,</hi> which rumor I my selfe (being then very young) can yet remember to haue bene <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>trent.</note>
+                        <hi>Ditch is made, and our nayles the spade,</hi>
+                     </l>
+                     <l>
+                        <hi>VVith pictures full, of waxe, and of wooll;</hi>
+                     </l>
+                     <l>
+                        <hi>Their liuers I sticke, with needles quicke;</hi>
+                     </l>
+                     <l>
+                        <hi>There lackes but the bloud, to make vp the flood.</hi>
+                     </l>
+                     <l>
+                        <hi>Quickly</hi> Dame, <hi>then, bring your part in,</hi>
+                     </l>
+                     <l>
+                        <hi>Spurre. spurre, vpon little</hi>
+                        <note n="n" place="margin">Their litle <hi>Martin</hi> is be that calls them to their Conuenticles, which is done in a humane voyce bu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> comming forth, they find him in the shape of a great Back<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>goat, vpon whom they <gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>e to their meetings <hi>Delrto. Disquis. Mag. Quast,</hi> 16. <hi>lib.</hi> 2. And <hi>Bod. Demonom. lib.</hi> 2 <hi>cap.</hi> 4. haue both the same relation from <hi>Paulus Grillandus,</hi> of a VVitch. <hi>Adueniente nocte, &amp; horà euocabatur vo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e quadam velut humana abipso Do<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> mone, quem non vocant Daemonem, sed Magisterulum, alia Magistrum Martinettum siue Martinellis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. Quae sic euocata<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> mox sumebat pyxidem vnctionis, &amp; liniebat corpus suum in qu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>usdam partibus &amp; membris, que limto exibet ex dom<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> &amp; inuenrebat Magisterulum suū in forma hircr illam expectantem apnd ostium, super quo mulier equi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>abat, &amp; appl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> care solebat fortiter manus ad arineis, &amp; station hircus ille adscendebat per aërem, &amp; breuissimo tempore defereb at ip<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> sam, &amp;c.</hi>
+                        </note> Martin,</l>
+                     <l>
+                        <hi>Merely, merely, make him saile,</hi>
+                     </l>
+                     <l>
+                        <hi>A worme in his mouth, and a thorne in's taile,</hi>
+                     </l>
+                     <l>
+                        <hi>Fire aboue, and fire below,</hi>
+                     </l>
+                     <l>
+                        <hi>VVith a whip i'your hand, to make him go.</hi>
+                     </l>
+                     <pb facs="tcp:173152:5"/>
+                     <l>
+                        <hi>O, Now shee's come!</hi>
+                     </l>
+                     <l>
+                        <hi>Let all be dumbe.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>AT this, the
+<note n="o" place="margin">This <hi>Dame</hi> make to beare t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> person of <hi>Are,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi> Mischiefe (for<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> I interpret it) o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of <hi>Homers</hi> descri<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tion of her <hi>Ilia<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi> I. where h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> makes her svv<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> to hurt Mankin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> strong, and sou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of her feete, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <hi>Iliad. T.</hi> vvalki<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> vpon mens hea<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> in both places vsing one, and the same phrase to sig<g ref="char:EOLhyphen"/>nifie her povver, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>Ladens home<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es.</hi> I present her <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>are footed, and he fr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>k ruck'd, to make her seeme more expedite, by <hi>Horace</hi> his antho<g ref="char:EOLhyphen"/>tity. <hi>Set.</hi> 8. <hi>lib.</hi> 1. <hi>Succinct<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m vadere palla Canidiam pe<g ref="char:EOLhyphen"/>dib<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s nudis, p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>sso{que} capillo.</hi> But for her haire, I rather respect another place of his, <hi>Epod. lib. Ode.</hi> 5, vvhere she appeares <hi>Canidia breuibus imp'icata viperis Cri<g ref="char:EOLhyphen"/>neis, et incomptum caput.</hi> And that of <hi>Lucan. lib.</hi> 6. Speaking of <hi>Erictho's</hi> attire. <hi>Discolor, &amp; vario Fur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ialis cultas amictu Induitur, vultus què aperitur crine remoto, Et coma vipereu substringitur horrida sertis.</hi> For her Torch, See <hi>Remig. lib.</hi> 2, <hi>cap.</hi> 3.</note>
+                  <hi>Dame</hi> enter'd to them, naked-arm'd, bare-footed, her frock tuck'd, her haire knotted, and folded with Vipers; In her hand a Torch made of a dead mans arme, lighted; girded with a Snake. To whom they all did reuerence, and she spake, vtte<g ref="char:EOLhyphen"/>ring, by way of question, the end wherefore they came: which if it had beene done either before, or other<g ref="char:EOLhyphen"/>wise, had not beene so naturall. For, to haue made
+<pb facs="tcp:173152:6"/>themselues, their owne decipherers, and each one to haue told, vpon their entrance, <hi>what they were, and whe<g ref="char:EOLhyphen"/>ther they would,</hi> had bin a most pitious hearing, and vt<g ref="char:EOLhyphen"/>terly vnworthy any quality of a <hi>Poeme:</hi> wherein a <hi>Wri<g ref="char:EOLhyphen"/>ter</hi> should alwayes trust somewhat to the capacity of the <hi>Spectator,</hi> especially, at these <hi>Spectacles;</hi> where men, beside inquiring eyes, are vnderstood to bring quicke eares, and not those sluggish ones of <hi>Porters,</hi> and <hi>Mechanicks,</hi> that must be bor'd through, at eue<g ref="char:EOLhyphen"/>ry act, with <hi>narrations.</hi>
+               </p>
+            </div>
+            <div type="scene">
+               <head>DAME. HAGGES.</head>
+               <sp>
+                  <l>
+                     <hi>VVEll done, my</hi> Hagges. <hi>And, come we fraught with spight,</hi>
+                  </l>
+                  <l>
+                     <hi>To ouerthrow the glory of this night?</hi>
+                  </l>
+                  <l>
+                     <hi>Holds our great purpose?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>HAG.</speaker>
+                  <l>
+                     <hi>Yes.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>DAM</speaker>
+                  <l>
+                     <hi>But wants there none</hi>
+                  </l>
+                  <l>
+                     <hi>Of our iust number?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>HAG.</speaker>
+                  <l>
+                     <hi>Call vs one, by one,</hi>
+                  </l>
+                  <l>
+                     <hi>And then our</hi> Dame <hi>shall see.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>DAM.</speaker>
+                  <l>
+                     <note n="p" place="margin">In the chayn<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>g of these <hi>vices</hi> make, as if one <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ke produc'd a<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>other, and the <hi>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ame</hi> vvere born <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ut of them all; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>, as they might <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>y to her, <hi>Sola to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> scelerum, quic<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>d possed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mus om<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>.</hi> Nor vvill it <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>peare much vi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ac'd, if their <hi>Series</hi> be considered, vvhen the opposition to all <hi>vertue</hi> begins out of <hi>Ignorance.</hi> That <hi>Ignorance</hi> beget <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                        <hi>Suspition</hi> (for knowledge is e<g ref="char:EOLhyphen"/>uer open, and charitable) That <hi>Suspition Cred<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>li<g ref="char:EOLhyphen"/>ty,</hi> as it is a vice<g ref="char:EOLhyphen"/>tor being a ver<g ref="char:EOLunhyphen"/>tue, and free, it is opposite to it: but such as are iealous of then selues doe easily credit any thinge of others whom they hate. Out of this <hi>Cre<g ref="char:EOLhyphen"/>dulity</hi> springs <hi>Falshood,</hi> which begets <hi>Murmure;</hi> and that <hi>Murmure</hi> presently growes <hi>Malice,</hi> which b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gets <hi>Impudence;</hi> and that <hi>Impudence Slander;</hi> that <hi>Slander Execration: Execration Bitternesse; Bitternesse Fury;</hi> and <hi>Fury Mischiefe.</hi> Now, for the personall presentation of them, the Authority in <hi>Poetry</hi> is vniuersall. But in the absolute <hi>Claudian,</hi> there is a particular and eminent place, where the <hi>Poet</hi> not onely produceth such per<g ref="char:EOLhyphen"/>sons but almost to a like purpose. <hi>in Ruf. Lib.</hi> 1, where <hi>Alecto,</hi> enuious of the times, <hi>infernas ad li<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ina to<g ref="char:EOLhyphen"/>tra sorores, Concilium deforme vocat, glomerantur in vnum I <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>numeraepstes Erebi, quascun{que} s<gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> stro Nex genu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u: nutrix Discordia belli, Imperiosa Fames, leto vicina Senectus, Impatiens{que} sui Merbus, L<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>{que} secundu Aum<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> &amp; scisso moerens velamine Luctus, Et Timor, &amp; caeco praecept Aadacia vultu;</hi> with many others, fit to disturb the world, as ours the night.</note>
+                     <hi>First, then, aduance</hi>
+                  </l>
+                  <l>
+                     <hi>My drousie seruant, stupide</hi> Ignorance,</l>
+                  <l>
+                     <hi>Knowne by thy scaly vesture; and bring on</hi>
+                  </l>
+                  <l>
+                     <hi>Thy fearefull Sister, wild</hi> Suspition,</l>
+                  <l>
+                     <hi>Whose eyes do neuer sleepe; Let her knit hands</hi>
+                  </l>
+                  <l>
+                     <hi>VVith quick</hi> Credulity, <hi>that next her stands,</hi>
+                  </l>
+                  <l>
+                     <hi>Who hath but one eare, and that alwayes ope,</hi>
+                  </l>
+                  <l>
+                     <hi>Two-faced</hi> Falshood, <hi>follow, in the rope;</hi>
+                  </l>
+                  <pb facs="tcp:173152:6"/>
+                  <l>
+                     <hi>And lead on</hi> Murmure, <hi>with the cheekes deepe hung;</hi>
+                  </l>
+                  <l>
+                     <hi>She</hi> Malice, <hi>whetting of her forked tongue;</hi>
+                  </l>
+                  <l>
+                     <hi>And</hi> Malice Impudence, <hi>whose forhead's lost;</hi>
+                  </l>
+                  <l>
+                     <hi>Let</hi> Impudence <hi>lead</hi> Slander <hi>on, to boast</hi>
+                  </l>
+                  <l>
+                     <hi>Her oblique looke; and to her subtle side</hi>
+                  </l>
+                  <l>
+                     <hi>Thou, black-mouth'd</hi> Execration, <hi>stand apply'd;</hi>
+                  </l>
+                  <l>
+                     <hi>Draw to thee</hi> Bitternesse, <hi>whose pores sweat gall;</hi>
+                  </l>
+                  <l>
+                     <hi>She flame-eyd</hi> Rage, Rage Mischief.</l>
+               </sp>
+               <sp>
+                  <speaker>HAG.</speaker>
+                  <l>
+                     <hi>Here we, are all.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>DAM.</speaker>
+                  <l>
+                     <note n="q" place="margin">Here againe, by vvay of irritation I make the <hi>Dame</hi> pursue the purpose of their comming, and discouer their natures more larg<g ref="char:EOLhyphen"/>ly: vvhich had bin nothing, if not done as doing a<g ref="char:EOLhyphen"/>nother thing, but <hi>Moratio circa vil<g ref="char:EOLhyphen"/>en pat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>que <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rborn.</hi> Then vvhich the <hi>Peet</hi> cannot know a greater vice; he being that kind of Artific<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, to whose worke is required so much exactnesse, as Indifferency is not tollerable.</note>
+                     <hi>Ioyne now our hearts, we faithfull Opposite<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>To</hi> Fame, <hi>and</hi> Glory. <hi>Let not these bright nights</hi>
+                  </l>
+                  <l>
+                     <hi>Of Honour blaze, thus, to offend our eyes.</hi>
+                  </l>
+                  <l>
+                     <hi>Shew our selues truely enuious, and let rise</hi>
+                  </l>
+                  <l>
+                     <hi>Our wonted rages. Do what may be seeme</hi>
+                  </l>
+                  <l>
+                     <hi>Such names, and Natures.</hi> Vertue, <hi>else, will deeme</hi>
+                  </l>
+                  <l>
+                     <hi>Our powers decreast, and thinke vs banish'd earth,</hi>
+                  </l>
+                  <l>
+                     <hi>No lesse then heauen. All her antique birth,</hi>
+                  </l>
+                  <l>
+                     <hi>As</hi> Iustice, Faith, <hi>she will restore; and bold</hi>
+                  </l>
+                  <l>
+                     <hi>Vpon our sloth, retriue her</hi> Age of Gold.</l>
+                  <l>
+                     <hi>VVe must not let our natiue manners, thus,</hi>
+                  </l>
+                  <l>
+                     <hi>Corrupt with ease. Ill liues not, but in vs.</hi>
+                  </l>
+                  <pb facs="tcp:173152:7"/>
+                  <l>
+                     <hi>I Hate to see these fruites of a soft Peace,</hi>
+                  </l>
+                  <l>
+                     <hi>And curse the pietie giues it such increase.</hi>
+                  </l>
+                  <l>
+                     <hi>Let vs disturbe it then,</hi>
+                     <note n="r" place="margin">These powers of troubling <hi>Na<g ref="char:EOLhyphen"/>ture,</hi> are frequent<g ref="char:EOLhyphen"/>ly ascrib'd to Wit<g ref="char:EOLhyphen"/>ches, &amp; chaleng'd by themselues, where euer they are induc'd, by <hi>Homer, Ouid, Tibullus, Pet: Arbiter, Seneca, Lucan, Claudian.</hi> to whose authorities I shall referre more anone. For the present, heare <hi>Socrat. in Apul. de Asin. au<g ref="char:EOLhyphen"/>res. lib.</hi> 1. describing <hi>Meroe</hi> the VVitch. <hi>Saga, &amp; Diuinipotens coelim deponere, terram suspendere, fontes dura<g ref="char:EOLhyphen"/>re, monteis diluere, Manes sublimare, Deos infimare, Sydera extinguere, Tartarum ipsum illuminare.</hi> And <hi>lib.</hi> 2. <hi>Byr<g ref="char:EOLhyphen"/>rhena</hi> to <hi>Lurius,</hi> of <hi>Pamphile. Maga primi nominis, &amp; omnis carminis sepulcral<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Magistra creditur, quae surcul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> &amp; lapillu, &amp; id genus friuolis inhalatis omnem istam lucem mundi syderalis, imis Tartari, &amp; in vetustum Chaos mergit.</hi> As also this latter of <hi>Remigiut,</hi> in his most elegant Arguments, before his <hi>Damonolatria▪ Qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> possint euertere fundit<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>t orbem, Et Maneis superis miscere, has vnica cura est.</hi> And <hi>Lucan. Quarum, quicquid non creditur, a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> of.</hi>
+                     </note>
+                     <hi>and blast the light;</hi>
+                  </l>
+                  <l>
+                     <hi>Mixe Hell with Heauen, and make</hi> Nature <hi>fight</hi>
+                  </l>
+                  <l>
+                     <hi>Within her selfe; loose the whole henge of Things;</hi>
+                  </l>
+                  <l>
+                     <hi>And cause the Ends runne backe, into their Springs.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>HAG.</speaker>
+                  <l>
+                     <hi>VVhat our</hi> Dame <hi>bids vs doo</hi>
+                  </l>
+                  <l>
+                     <hi>VVe are ready for.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>DAM.</speaker>
+                  <l>
+                     <hi>Then fall too.</hi>
+                  </l>
+                  <l>
+                     <note n="s" place="margin">This is also so<g ref="char:EOLhyphen"/>lemne in their witchcraft, to be examined, either by the <hi>Diuell</hi> or their <hi>Dame,</hi> at their meetings, of what mischiefe they haue done; and what they can conferre to a future hurt. See <hi>M. Philippo-Ludvvigus Elich. Damonoma<g ref="char:EOLhyphen"/>gia lib. Quast.</hi> 10. But <hi>Remigius,</hi> in the very forme. <hi>Lib.</hi> 1. <hi>Demonolat. Cap,</hi> 22. <hi>Quemadmodum solent Heri in <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>lli. is procuratoribus, cum corum rationes expendunt, segnitiem negligentiam{que} durius cast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gare; Ita Daemon, in suis co<gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ijs, quod tempus examinandis c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ius{que} rebus at{que} actiontbus ipse constituit, eos pessimè habere consuent<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, qui nihil af<g ref="char:EOLhyphen"/>ferunt, quo se nequiores ac flagitijs cumulatiores doceant. Nec cuiquam adeo impune est, si à superiore conuentu nullo <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>se scelere nouo obstr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ern<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t; sed semper op<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rtet, qui gratus esse volet, in alium, nouum aliquod fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>inus fecisse.</hi> And this doth exceedingly solicue them all, at such times, lest they should come vnprepared. But wee apply this examination of ours to the particular vse; whereby, also, we take occasion, not alone to expresse the Things (as Vapors, Liquors, Hearbs, Bones, Flesh, Blood, Fat, and such like, which are cal'd <hi>Media magica</hi>) but the <hi>Rites</hi> of gathering them, and from what places, reconciling (as neere as we can) the practise of <hi>An<g ref="char:EOLhyphen"/>tiquity,</hi> to the <hi>Neotericke,</hi> and making it familiar with our popular VVitchcraft.</note>
+                     <hi>But first relate me, what you haue sought,</hi>
+                  </l>
+                  <l>
+                     <hi>VVhere you haue beene, and what you haue brought.</hi>
+                  </l>
+               </sp>
+            </div>
+            <div type="scene">
+               <pb facs="tcp:173152:7"/>
+               <head>HAGGES.</head>
+               <sp>
+                  <speaker>1.</speaker>
+                  <l>
+                     <note place="margin">1 For the gathe<g ref="char:EOLhyphen"/>ring peeces of dead flesh. <hi>Cor. A<g ref="char:EOLhyphen"/>grip. deoccul. Phi<g ref="char:EOLhyphen"/>losop. lib.</hi> 3. <hi>Cap.</hi> 42. and <hi>Lib.</hi> 4. <hi>Cap. vlt.</hi> obserues that the vse was to call vp <hi>Ghost<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> and <hi>Spirits,</hi> with a sumigation made of that (&amp; bones of carcasses) which I make my VVitch, here, not to cut her selfe, but to watch the <hi>Rauen,</hi> as <hi>Lucan's Erichthe. Lib.</hi> 6. <hi>Et quodcun<g ref="char:EOLhyphen"/>qué iapet nuda tellure cad auer, Ante feras volucres{que} sedet: nec carpere membra Vult ferro manibus{que} suis, morsus{que} luporum Expectat siccis raptura à sau<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ibus artus.</hi> As if that peece were sweeter which the VVolfe had bitten, or the Rauen had pick'd, and more effectuous: And to do it, at her turning to the <hi>South,</hi> as with the praediction of a storme. VVhich, though they be but minutes in <hi>Ceremony,</hi> being obseru'd, make the act more darke and full of horror.</note> I <hi>Haue bene, all day, looking after</hi>
+                  </l>
+                  <l>
+                     <hi>A Rauen, feeding vpon a quarter;</hi>
+                  </l>
+                  <l>
+                     <hi>And, soone as she turn'd her beake to the</hi> South,</l>
+                  <l>
+                     <hi>Isnatch'd this morsell out of her mouth.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>2.</speaker>
+                  <l>
+                     <note place="margin">2 <hi>Spuma Canum<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> Lupi crines, nodus Hyena, ocult Draconum, Serpen<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> tis membrana, As<g ref="char:EOLhyphen"/>pidis aures</hi> are a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> mention'd by th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <hi>Antients,</hi> in witc<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> craft. And <hi>Luc<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </hi> particularly <hi>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> li<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </hi> 6. <hi>Huc quicqui<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> foetu genuit Natu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> finistro Miscetur, non spuma canum, quibus vnda timoriest, Viscera non Lyncis; non durae nodus Hyenae Defuit: &amp;c.</hi> A<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <hi>Ouid. Metamorphos. lib.</hi> 7. reckons vp others. But for the spurging of the eies, let vs returne to <hi>Lucan,</hi> in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> same booke, which peice (as all the rest) is written with an admirable height. <hi>Ast vbi seruantur saxu, quib<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> intimus humor Ducitur, &amp; tracta durescunt tabe medullae Corpora, tunc omneis auide desanit in artus, Immersit{que} m<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> nus oculis, gaudet que gelat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s Effodisse orbeis, &amp; sicca pallida rodit Excrementa man<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>.</hi>
+                     </note> I <hi>Haue bene gathering Wolues haires,</hi>
+                  </l>
+                  <l>
+                     <hi>The mad Dogges foame, and the Adderseares;</hi>
+                  </l>
+                  <l>
+                     <hi>The spurging of a dead Mans eyes,</hi>
+                  </l>
+                  <l>
+                     <hi>And all since the</hi> Euening starre <hi>did rise.</hi>
+                  </l>
+               </sp>
+               <pb facs="tcp:173152:8"/>
+               <sp>
+                  <speaker>3.</speaker>
+                  <l>
+                     <note place="margin">3 <hi>Plinle</hi> writing of the <hi>Mandrake, Nat. Hist. lib.</hi> 25. <hi>cap.</hi> 13. and of the digging it vp, hath this ceremony, <hi>Cauent effossur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> contrarium ventum, &amp; tribus cir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ulis antè glad<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rcumscribunt, postea fodiunt ad occasum spectantes.</hi> But we haue later tradition, that the forcing of it vp is so fatally dangerous, as the grone kils, and therefore they do it vvith Dogs, which I thinke but borrowed from <hi>Iosephus</hi> his report of the root <hi>Baaras. lib.</hi> 7. <hi>de Bel. Iudaic.</hi> Hows<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>euer, it being so principall an in<g ref="char:EOLhyphen"/>gredient in their <hi>Magick,</hi> it was fit she should boast to be the plucker vp of it her selfe. And, that <hi>the Cook did crovv,</hi> asludes to a prime circumstance in their worke: For they all confesse that nothing is so crosse, or balefull to them, in their nights, as that the Cock should crow before they haue done. VVhich makes that their little <hi>Masters,</hi> or <hi>Martinets,</hi> of whom I haue mention'd before, vse this forme in dismissing their conuentions. <hi>Eia, facessite proper<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> hinc omnes, nam iam galli canere incipus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t.</hi> VVhich I interpret to be, because that Bird is the messenger of light, and so, contrary to their acts of darknesse. See <hi>Remig. Demonolat. lib.</hi> 1. <hi>cap.</hi> 4. where he quotes that of <hi>Appollonius. de vmbra Achillu, Philostr. lib.</hi> 4. <hi>cap.</hi> 5. And <hi>Eus<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>. Casariens. <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> confutat. contra Hierecl.</hi> 4. <hi>de Gallicinio.</hi>
+                     </note> I, <hi>Last night, lay all alone</hi>
+                  </l>
+                  <l>
+                     <hi>O the ground, to heare the</hi> Mandrake <hi>grone;</hi>
+                  </l>
+                  <l>
+                     <hi>And pluckt him vp, though he grew full low,</hi>
+                  </l>
+                  <l>
+                     <hi>And, as I had done, the</hi> Cocke <hi>did crow.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>4.</speaker>
+                  <l>
+                     <note place="margin">4 I haue touch'd at this before, in my none vpon the first, of the vse of gathering Flesh, Bone<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, and Sculs: to which I now bring that piece of <hi>Apuleius. lib.</hi> 3. <hi>de Asino aurto.</hi> of <hi>Pamphile. Prius{que} apparatu solito instruxit feralem officinam, omne ge<gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r omatis. &amp; ignorab<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iter laminis literat<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>, &amp; infoelicium n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tuium durantibus clauis defletorum, sepultorum etiam, cadauerum expositis <gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ltis ad<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>odum membru, me nares, &amp; digiti, illic carn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>si claut pendentium, alibi trucidatorum seruatus cr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>or, &amp; ex<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>orta dentibus serarum trunca caluarta.</hi> And, for such places, <hi>Lucan</hi> makes his VVitch to inhabit them. <hi>Lib.</hi> 6. <hi>Deserta que busta Incolit, &amp; tu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s expulsis obtines <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>brts.</hi>
+                     </note>
+                     <hi>ANd, I ha'beene choosing out this scull,</hi>
+                  </l>
+                  <l>
+                     <hi>From Charnell houses, that were full;</hi>
+                  </l>
+                  <l>
+                     <hi>From priuate Grots, and publique Pits,</hi>
+                  </l>
+                  <l>
+                     <hi>And frighted a Sexten, out of his wits.</hi>
+                  </l>
+               </sp>
+               <pb facs="tcp:173152:8"/>
+               <sp>
+                  <speaker>5.</speaker>
+                  <l>
+                     <note place="margin">5 For this rite, see <hi>Barthel. de spina. Quaest. de Strigibus. cap.</hi> 8. <hi>Mall. Mal<g ref="char:EOLhyphen"/>lesica. Tom.</hi> 2. vvhere hee dis<g ref="char:EOLhyphen"/>putes at large the transformation of Witches to cattes, and their sucking both their spirits, and the bloud, calling them <hi>Striget:</hi> which <hi>Goldelman: lib. de Lamijs.</hi> would haue <hi>á stridore, &amp; auibus fadissimis eiusdem nominis,</hi> vvhich I the rather incline to out of <hi>Ouid's</hi> authority. <hi>Fast. lib.</hi> 6. where the <hi>Peet</hi> ascribes, to those birds, the same almost that these doe to the Witches. <hi>Nocte volant, pucrosque po<g ref="char:EOLhyphen"/>tunt nutricis egenteis, Et vitiant cunis corpora rapta suis: Carpere dicuntur lactentia viscera rostris, Et plenum pote sanguine guttur habent.</hi>
+                     </note>
+                     <hi>VNder a cradle I did creepe,</hi>
+                  </l>
+                  <l>
+                     <hi>By day; and, when the child was asleepe,</hi>
+                  </l>
+                  <l>
+                     <hi>At night, I suckd the breath: and rose,</hi>
+                  </l>
+                  <l>
+                     <hi>And pluckd the nodding Nurse by the nose.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>6.</speaker>
+                  <l>
+                     <note place="margin">6. Their killing of infants is com<g ref="char:EOLhyphen"/>mon, both for confection of their oyntment (vvhereto one In<g ref="char:EOLhyphen"/>gredient is the fat boylde, as I haue shevv'd before out of <hi>Paracelsus, &amp; Porta</hi>) as also out of a lust to doe murder. <hi>Sprenger in Mall. Malesic.</hi> re<g ref="char:EOLhyphen"/>ports that a Witch, a Mid<g ref="char:EOLhyphen"/>vvife in the <hi>Diocoese</hi> of <hi>Basil,</hi> confessed to haue killd aboue forty infants (euer as they vvere nevv borne, vvith pricking them in the braine vvith a needle) vvhich she had offered to the <hi>Deuill.</hi> See the story of the three Witches <hi>in Rem. Daemonola lib. cap.</hi> 3. about the end of the chapter. And <hi>M. Philippo-Ludvvigus Elich. Quaestio.</hi> 8. And, that it is no nevv rite, reade the practise of <hi>Can<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dia. Epod. Horat. lib. Ode</hi> 5. and <hi>Eucan. lib.</hi> 6. vvhose admirable verses I can neuer bee vveary to transcribe. <hi>Noc cessant à cade manus, si sanguine <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>viu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Est opus, erumpat inguloqui primus aperto. Nec refugitcades, vinum s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>saer <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>em Exta{que} funerea poscunt trepidan<g ref="char:EOLhyphen"/>tia mensa. Vulnere si ventris, non qua Natura vocabat Extrahitur part<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> calides pone<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>lus in aris; Et qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tiet sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> opus est <gap reason="illegible" resp="#keyers" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> Ipsafanit Man<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>. <gap reason="illegible" resp="#keyers" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> om<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>is in vsu est.</hi>
+                     </note> I <hi>Had a dagger: VVhat did I with that?</hi>
+                  </l>
+                  <l>
+                     <hi>Kill'd an infant, to haue his fat.</hi>
+                  </l>
+                  <l>
+                     <hi>A Piper it got at a</hi> Church-ale,</l>
+                  <l>
+                     <hi>I bad him, againe blow wind i'the tayle.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>7.</speaker>
+                  <l>
+                     <note place="margin">7. The abuse o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> dead bodies in their vvitch-craf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, both <hi>Porphyrie,</hi> and <hi>Ps<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>llus</hi> are graue Authors of. The one <hi>Lib. de sacrif ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> de vere cultu.</hi> The other <hi>h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>de d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi> which <hi>Apuleius</hi> touch<g ref="char:EOLhyphen"/>eth too, <hi>lib.</hi> 2. <hi>de Asin. a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>reo.</hi> But <hi>Remigius,</hi> who deales with later persons, and out of their ovvne mouthes <hi>Damonola. lib.</hi> 2. <hi>Cap.</hi> 3. affirmes. <hi>Hec &amp; nostra a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>atismaleficis hominibus moris est facere, prasertim si cuius suppli<g ref="char:EOLhyphen"/>cio affecti cadauer exemple d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tumest, et in crucem sublatum. Nam non solum inde sortilegijs suis materiam mutu<g ref="char:EOLhyphen"/>antur: Sed et ab ipsis carnisocinae instrumentit, reste, vinc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lis, palo, ferramentis. Siqwdem ijs vulgs etiam opinione inesse ad i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cantationes magi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>as vim quandam at potestatem.</hi> And, to this place, I dare <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t, out of Religion to the di<g ref="char:EOLhyphen"/>nine <hi>Lucan,</hi> but bring his verses from the same booke. <hi>Laqueum, nodosque nocenteit Ore suo rupir, pendentia corpora carpsit, Abrasit que cruies, percussaque viscera n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mbis Ʋulsit, et incoctas admisso sole medullas. Insertum manibus chalibe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> nigramque per artus Stillantis tabs sani<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>, virusque coa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tum Sust<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>it, &amp; ner<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o morsut retine<gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> perpen<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>t.</hi>
+                     </note> A <hi>Murderer, yonder, was hung in chaines,</hi>
+                  </l>
+                  <pb facs="tcp:173152:9"/>
+                  <l>
+                     <hi>The Sunne, and the wind had shrunke his vaine<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>;</hi>
+                  </l>
+                  <l>
+                     <hi>I bit of a sinew, I clipp'd his haire,</hi>
+                  </l>
+                  <l>
+                     <hi>I brought of his ragges, that danc'd i'the ayre.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>8.</speaker>
+                  <l>
+                     <note place="margin">8 These are <hi>Cani<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>as</hi> furniture <hi>in Hora. Epoa. lib. Ode.</hi> 5. <hi>Etvncta turpis <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>a rana sanguine, Plu<g ref="char:EOLhyphen"/>mamque nocturnae strigis</hi> And part of <hi>Medeas</hi> confection in <hi>Ouid. Metamorp. lib.</hi> 7. <hi>Strigis infamet, ipsis cum carnibus, alas.</hi> That of the skin (to make a purse for her <hi>Fly</hi>) vvas meant ridi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, to mock the keeping of their <hi>Familiars.</hi>
+                     </note>
+                     <hi>THe Scrich-owles egges, and the fethers black,</hi>
+                  </l>
+                  <l>
+                     <hi>The bloud of the Frogge, and the bone in his back</hi>
+                  </l>
+                  <l>
+                     <hi>I haue beene getting; and made of his skin</hi>
+                  </l>
+                  <l>
+                     <hi>A purset, to keepe Sir</hi> Cranion <hi>in.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>9.</speaker>
+                  <l>
+                     <note place="margin">9. <hi>
+                           <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>, Hyos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>us, Ophi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>gloss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n, Sol<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>um, Martagon, Dor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ni<g ref="char:EOLhyphen"/>cum, Aconitum</hi> are the common <hi>ve<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eficall</hi> ingredi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nts, remembred by <hi>Par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lsus, Pert<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, Agrippa,</hi> &amp; others; vvhich I make her to ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e gather'd, as about a Costle, Church, or some rast building (kept by Dogges) among ruines, and vvild heapes.</note>
+                     <hi>ANd Iha' beene plucking (plants among)</hi>
+                  </l>
+                  <l>
+                     <hi>Hemlock, Henbane, Adders-tongue,</hi>
+                  </l>
+                  <l>
+                     <hi>Night-shade, Moonewort, Libbards-hane,</hi>
+                  </l>
+                  <l>
+                     <hi>And twise, by the Dogges, was like to be tane.</hi>
+                  </l>
+               </sp>
+               <pb facs="tcp:173152:9"/>
+               <sp>
+                  <speaker>10.</speaker>
+                  <l>
+                     <note place="margin">10. <hi>Ossa abere rapta ieiuna canis Horace</hi> giues <hi>Cani<g ref="char:EOLhyphen"/>dia,</hi> in the place before quoted. which <hi>ieiuna</hi> I ra<g ref="char:EOLhyphen"/>ther change to Gard'nets, as imagining such persons, to keepe Mastifes for the defence of their grounds, whether this Hagge might goe also for <hi>simple<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>:</hi> where meeting with the bones, and, not content with them, shee would yet do a domesticke hurt, in getting the Catt's braices; vvhich is another speciall <hi>In<g ref="char:EOLhyphen"/>gredient,</hi> and of so much more efficacy, by how much blacker the Catte is. If you will credit <hi>Agrip. cap. de suffitibus.</hi>
+                     </note> I, <hi>From the iawes of a Gardiners Bitch,</hi>
+                  </l>
+                  <l>
+                     <hi>Did snatch these bones, and then leap'd the ditch,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet went I back to the house againe,</hi>
+                  </l>
+                  <l>
+                     <hi>Kill'd the black Cat, and here's the brayne.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>11.</speaker>
+                  <l>
+                     <note place="margin">11. These also, both by the con<g ref="char:EOLhyphen"/>fessions of Wit<g ref="char:EOLhyphen"/>ches, and testimo<g ref="char:EOLhyphen"/>ny of vvriters, are of principall vse in their Witch<g ref="char:EOLhyphen"/>craft. The Toad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> mention'd in <hi>Virg. Geo. lib.</hi> 1. <hi>In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> neutusque ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Bufo.</hi> Which by <hi>Plinie</hi> is call'd <hi>Rubeta. Natu. Histo. lib.</hi> 32. <hi>cap.</hi> 5. and there celebrated for the force in <hi>Magick. Iuuenal</hi> touch <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th at it twise, within my memory. <hi>Satir.</hi> 1. <hi>&amp;</hi> 6. And of the Owles eyes, see <hi>Cor. Agrip. de occult. Philos. lib.</hi> 1. <hi>Cap.</hi> 15. As of the Bats bloud, and wings, there: and in the 25. chapter. with <hi>Bapt. Porta. lib.</hi> 2. <hi>cap.</hi> 26.</note> I <hi>VVent to the Toad breedes vnder the wall,</hi>
+                  </l>
+                  <l>
+                     <hi>Icharm'd him out, and he came at my call;</hi>
+                  </l>
+                  <l>
+                     <hi>I scratchd out the eyes of the Owle, before,</hi>
+                  </l>
+                  <l>
+                     <hi>I tore the Battes wing; what would you haue more?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>12.</speaker>
+                  <l>
+                     <note place="margin">12. After all their boasted la<g ref="char:EOLhyphen"/>bors, and plenty of <hi>Materialls</hi> (as they imagine) I make the <hi>Dame</hi> not only to adde more, but stran<g ref="char:EOLhyphen"/>ger, and out of their meanes to get, (except the <gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>st <hi>Papauer cor<g ref="char:EOLhyphen"/>nutum,</hi> vvhich I haue touch'd at in the cousection) as <hi>Sepulchris caprificos erutas, &amp; cupressos funebreis,</hi> as <hi>Horace</hi> cals them, vvhere he armes <hi>Ca<g ref="char:EOLhyphen"/>nidia. Epod. lib. Ode.</hi> 5. Then <hi>Aguricum Laruis</hi> of vvhich, see <hi>Porta. lib.</hi> 2. <hi>de Nat. Magi.</hi> against <hi>Plinie.</hi> And <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>silist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, quem &amp; Saturni sangui em vocant venefi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i, tantas{que} vires habere ferunt. Cor. Agrip. de occult. Philos. lib.</hi> 1 <hi>Cap.</hi> 42. VVith the viper, remembred by <hi>Lucan. lib.</hi> 6. and the skim of Serpents. <hi>Innata{que} rúbris Aequori<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> custos pretiosae viperae conchae. Aut viuentis adhuc Lybicae membrana cerasta.</hi> And <hi>Ouid. lib.</hi> 7. <hi>Nec defuit illis Squamea Cimphei tenuis membrana chelidri.</hi>
+                     </note>
+                     <hi>YEs, I haue brought (to helpe our vowes)</hi>
+                  </l>
+                  <l>
+                     <hi>Horned Poppy, Cipresse boughes,</hi>
+                  </l>
+                  <l>
+                     <hi>The Fig-tree wild, that growes on tombes,</hi>
+                  </l>
+                  <pb facs="tcp:173152:10"/>
+                  <l>
+                     <hi>And Iuice, that from the</hi> Larch-tree <hi>comes,</hi>
+                  </l>
+                  <l>
+                     <hi>The</hi> Basiliskes <hi>blood, and the</hi> Vipers <hi>skin:</hi>
+                  </l>
+                  <l>
+                     <hi>And, now, our</hi> Orgies <hi>let's begin.</hi>
+                  </l>
+               </sp>
+            </div>
+            <div type="scene">
+               <head>DAME.</head>
+               <p>HEre, the <hi>Dame</hi> put her selfe in the midst of them, and began her following Inuocation; wherein she tooke occasion to boast all the power attributed to Witches, by the <hi>Antients:</hi> of which euery <hi>Poet</hi> (or the most) do giue some. <hi>Homer</hi> to <hi>Circe,</hi> in the <hi>Odyss. Theo<g ref="char:EOLhyphen"/>critus</hi> to <hi>Simatha,</hi> in <hi>Pharmaceutria. Virgil</hi> to <hi>Alphesiboeus,</hi> in his. <hi>Ouid</hi> to <hi>Dipsas,</hi> in <hi>Amor.</hi> to <hi>Medea,</hi> and <hi>Circe,</hi> in <hi>Metamorph. Tibullus</hi> to <hi>Saga. Horace</hi> to <hi>Canidia, Sagana, Veta, Folia. Seneca</hi> to <hi>Medea,</hi> and the Nurse, in <hi>Herc. O Ete. Petr. Arbiter</hi> to his <hi>Saga,</hi> in <hi>Frag.</hi> and <hi>Claudian</hi> to <hi>Megaera. Lib.</hi> 1. <hi>in Rufinum;</hi> who takes the habite of a Witch, as these do, and supplies that <hi>historicall</hi> part in the <hi>Poeme,</hi> beside her <hi>morall</hi> person of a <hi>Fury:</hi> Confir<g ref="char:EOLhyphen"/>ming the same drift, in ours.</p>
+               <sp>
+                  <l>
+                     <note n="a" place="margin">These Inuocati<g ref="char:EOLhyphen"/>ons are solemne vvith them, wher<g ref="char:EOLhyphen"/>of we may see the formes, in <hi>Ouid. Meta. lib.</hi> 7. in <hi>Sen. Trag. Med.</hi> in <hi>Luc. lib.</hi> 6. which of all is the bol<g ref="char:EOLhyphen"/>dest &amp; most hor<g ref="char:EOLhyphen"/>rid: beginning <hi>Eumemdes, Stigi<g ref="char:EOLhyphen"/>um{que} nefas, paenae{que} nocentum, &amp;c.</hi>
+                     </note>
+                     <hi>YOu</hi> Feinds, <hi>and</hi> Furies (<hi>if yet any bee</hi>
+                  </l>
+                  <l>
+                     <hi>VVorse then our selues) you, that haue quak'd to see</hi>
+                  </l>
+                  <l>
+                     <hi>These</hi>
+                     <note n="b" place="margin">The vntying of their knots is, when they are go<g ref="char:EOLhyphen"/>ing to some fatall businesse, as <hi>Saga<g ref="char:EOLhyphen"/>na</hi> is presented by <hi>Horace. Exp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>di<g ref="char:EOLhyphen"/>ta, per totam domum Spargent Auerna<g ref="char:EOLhyphen"/>leis aquas, H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> capillis, vt marinus asperis, Echinus, a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> curren<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Aper.</hi>
+                     </note>
+                     <hi>knots vntied; &amp; shrunk when we haue charm'd.</hi>
+                  </l>
+                  <l>
+                     <hi>You, that (to arme vs) haue your selues disarm'd,</hi>
+                  </l>
+                  <pb facs="tcp:173152:10"/>
+                  <l>
+                     <hi>And to our powers, resign'd your whips and brands,</hi>
+                  </l>
+                  <l>
+                     <hi>VVhen we went forth the scourge of Men, and Lands.</hi>
+                  </l>
+                  <l>
+                     <hi>You, that haue seene me ride, when</hi> Hecate</l>
+                  <l>
+                     <hi>Durst not take chariot; when the boistrous sea,</hi>
+                  </l>
+                  <l>
+                     <hi>VVithout a breath of wind, hath knock'd the sky;</hi>
+                  </l>
+                  <l>
+                     <hi>And that hath thundred,</hi> Ioue <hi>not knowing why:</hi>
+                  </l>
+                  <l>
+                     <hi>VVhen we haue set the Elements at warres,</hi>
+                  </l>
+                  <l>
+                     <hi>Made Midnight see the Sunne, and Day the Starres;</hi>
+                  </l>
+                  <l>
+                     <hi>VVhen the wing'd Lightning, in the course, hath staid;</hi>
+                  </l>
+                  <l>
+                     <hi>And swiftest Riuers haue run backe, afraid,</hi>
+                  </l>
+                  <l>
+                     <hi>To see the Corne remoue, the Groues to range,</hi>
+                  </l>
+                  <l>
+                     <hi>VVhole Places alter, and the Seasons change.</hi>
+                  </l>
+                  <l>
+                     <hi>VVhen the pale</hi> Moone, <hi>at the first voice, downe fell</hi>
+                  </l>
+                  <l>
+                     <hi>Poison'd, and durst not stay the second</hi> Spell.</l>
+                  <l>
+                     <hi>You, that haue oft, beene conscious of these sights;</hi>
+                  </l>
+                  <l>
+                     <hi>And thou</hi>
+                     <note n="c" place="margin">
+                        <hi>Hecate,</hi> who is called <hi>Triuia,</hi> &amp; <hi>Triformis,</hi> of whom <hi>Ʋirgil. Aeneid. lib.</hi> 4. <hi>Tergeminam{que} Hecaten. tria vergi nis ora Diana.</hi> She was beleeu'd to gouerne in witch<g ref="char:EOLhyphen"/>craft; and is remembred in <gap reason="illegible" resp="#murp" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> their inuocations See <hi>Theoc. in Phar<g ref="char:EOLhyphen"/>maceut.</hi>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                        <hi>&amp; Medea in Sene Meis vo<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ata sacr<g ref="char:EOLhyphen"/>noctium sidus veni. Pessimos induta vultus: Front<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> no<g ref="char:EOLhyphen"/>vna minax.</hi> And, <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <hi>richt.</hi> in <hi>Luc. Pers<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLunhyphen"/>phone, nostra{que} He catis part vltima &amp;c.</hi>
+                     </note> three-formed Starre, <hi>that, on these nights</hi>
+                  </l>
+                  <l>
+                     <hi>Art onely powerfull, to whose triple Name</hi>
+                  </l>
+                  <l>
+                     <hi>Thus we incline;</hi> Once, twice, <hi>and</hi> thrice the same;</l>
+                  <l>
+                     <hi>If now with</hi> rites <hi>prophane, and foule inough,</hi>
+                  </l>
+                  <l>
+                     <hi>VVe do inuoke thee; darken all this roofe,</hi>
+                  </l>
+                  <l>
+                     <hi>VVith present fogges: Exhale earths rott'nest vapors,</hi>
+                  </l>
+                  <l>
+                     <hi>And strike a blindnesse through these blazing tapers.</hi>
+                  </l>
+                  <l>
+                     <hi>Come, let a murmuring</hi> Charme <hi>resound,</hi>
+                  </l>
+                  <l>
+                     <hi>The whilest we</hi>
+                     <note n="d" place="margin">This <hi>Rite,</hi> o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> burying their Materials, is ofte<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> confest in <hi>Remig<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </hi> and describ'd am<g ref="char:EOLhyphen"/>ply in <hi>Hor. Sat</hi> 8 <hi>lib.</hi> 1. <hi>Ʋt{que} Lupibar bam var<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a cun<g ref="char:EOLunhyphen"/>dente colubrae Ab<g ref="char:EOLunhyphen"/>diderint furtim ter<g ref="char:EOLhyphen"/>ris &amp;c,</hi>
+                     </note>
+                     <hi>bury all, i'the ground.</hi>
+                  </l>
+                  <l>
+                     <hi>But first, see euery</hi>
+                     <note n="e" place="margin">The <hi>Ceremony</hi> also, of baring their feete, is expressed by <hi>Ouid. Metamorph. lib.</hi> 7. as of their haire. <hi>Egro ditur tectis vestes induta recinctas, Nuda pedem, nudos humeris infusa capillos.</hi> And <hi>Horac. ibidem. Pedibus nud passo{que} capillo.</hi> And <hi>Senec, in Tragad. Med. Tibi more Gentis, vinculo soluens comam Secrota nud<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> nemora <gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>stra<gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ped.</hi>
+                     </note>
+                     <hi>foote be bare;</hi>
+                  </l>
+                  <l>
+                     <hi>And euery knee.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>HAG.</speaker>
+                  <l>
+                     <hi>yes,</hi> Dame, <hi>they are.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <lg type="magic_spell">
+                     <pb facs="tcp:173152:11"/>
+                     <head>4. CHARME.</head>
+                     <l>
+                        <hi>DEepe,</hi>
+                        <note n="f" place="margin">Heere they sreake as if they were creating some new feature, which the <hi>Diuell</hi> perswades them to bee able to do, often, by the pronouncing of Words, and pow<g ref="char:EOLhyphen"/>ring out of Li<g ref="char:EOLhyphen"/>quors, on the Earth. Heare what <hi>Agrip.</hi> saies, <hi>De oceul. Phil. lib.</hi> 4 neere the end. <hi>In <gap reason="illegible" resp="#murp" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>tation: bus vm<g ref="char:EOLhyphen"/>brarum furnigam<gap reason="illegible" resp="#murp" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap> cum senguine recen<g ref="char:EOLhyphen"/>ti, cum ossibus more tuorum, &amp; carne, cum onis, lacte, w<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>elle, olee, &amp; simito li<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>us, quae aptun inedi<gap reason="illegible" resp="#murp" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> tribnunt a<g ref="char:EOLhyphen"/>nimabus, ad secunda corpora;</hi> and a little before, <hi>Nam{que} anima cognitis medijs, per quae quondam corporthus su<gap reason="illegible" resp="#murp" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> coniungebantur, per similes vapores, liquores, nidere, <gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> facile alliciuntur.</hi> which doctrine he had from <hi>Apuleius,</hi> without all doubt, or question, who <hi>in lib.</hi> 3. <hi>de Asin, aure<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>.</hi> publisheth the same. <hi>Tune decantatis spirantibus fibris <gap reason="illegible" resp="#murp" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>at vario latice, nunc rore fontane, nunc laecte vaccine, nunc melle montano, libat &amp; mulsâ Sicilles capillos in <gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>n<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>tuo<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> nexue obditor, atque nodatos, cum multis <gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>doribus das viuis carbonribus adolendos. Tunc protinus inexpugna<g ref="char:EOLhyphen"/>bili Magica Disciplmas potestate, &amp; caca numinum coactorum violentia, illa corpora quorum fumabant-stridentes ca<g ref="char:EOLhyphen"/>pills spiritum mutuentor humanum, &amp; sentiunt, &amp; audiunt, &amp; ambulant. Et qui nidor suarum ducebat exuuiarum veni<gap reason="illegible" resp="#murp" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ns.</hi> All which are meere arts of <hi>Sathan,</hi> when either himselfe will delude them with a false forme, or troubling a dead body makes them imagine these vanities the meanes: as in the ridiculous circumstances that follow, he doth dayly.</note>
+                        <hi>O deepe, we lay thee to sleepe;</hi>
+                     </l>
+                     <l>
+                        <hi>VVe leaue thee drinke by, if thou chance to be dry;</hi>
+                     </l>
+                     <l>
+                        <hi>Both Milke, and Bloud, the Dew, and the Floud.</hi>
+                     </l>
+                     <l>
+                        <hi>VVe breath in thy bed, at the foote, and the head;</hi>
+                     </l>
+                     <l>
+                        <hi>We couer thee warme, that thou take no harme:</hi>
+                     </l>
+                     <l>
+                        <hi>And when thou dost wake,</hi>
+                     </l>
+                     <l>
+                        <hi>Dame Earth shall quake,</hi>
+                     </l>
+                     <l>
+                        <hi>And the houses shake,</hi>
+                     </l>
+                     <l>
+                        <hi>And her belly shall ake,</hi>
+                     </l>
+                     <l>
+                        <hi>As her backe were brake,</hi>
+                     </l>
+                     <l>
+                        <hi>Such a birth to make,</hi>
+                     </l>
+                     <l>
+                        <hi>As is the blew</hi> Drake:</l>
+                     <l>
+                        <hi>VVhose forme thou shalt take.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>DAME.</speaker>
+                  <l>
+                     <hi>NEuer a Starre yet shot?</hi>
+                  </l>
+                  <l>
+                     <hi>Where be the Ashes?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>HAG.</speaker>
+                  <l>Here's the pot.</l>
+               </sp>
+               <pb facs="tcp:173152:11"/>
+               <sp>
+                  <speaker>DAM.</speaker>
+                  <l>
+                     <note n="g" place="margin">This throw<g ref="char:EOLhyphen"/>ing vp of ashes, und sand, with the fline stone, crosse sticks, and bury<g ref="char:EOLhyphen"/>ing of sage &amp;c. are al vs'd (and bele<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>'d by them) to the rayling of storme. and tem<g ref="char:EOLhyphen"/>post. See <hi>Remig. lib.</hi> r. <hi>daemon cap.</hi> 25. <hi>Nider. F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rmaen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ri. cap.</hi> 4. <hi>Bodin. Da<g ref="char:EOLhyphen"/>mon. lib</hi> 2 <hi>cap.</hi> 8. And heare <hi>Godch<g ref="char:EOLhyphen"/>manilib.</hi> 2. <hi>cap.</hi> 6. <hi>Nam quando da<g ref="char:EOLhyphen"/>moni grandines ci<g ref="char:EOLhyphen"/>ends potestatem fa<g ref="char:EOLhyphen"/>cit Deus, tum Ma<g ref="char:EOLhyphen"/>loficas inst, uit, vt quandeque filices post tergum in oc<g ref="char:EOLhyphen"/>cidentem versme proijciant, a liquande vt arenam aqua terrent is in acrem concijcoant. plerum<g ref="char:EOLhyphen"/>que scopas in aqu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> intingant, cal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m{que} versús spargant, vel fossulâ factâ &amp; lotie infuso, vel aqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> digi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> moneant: sub<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ndà in ella percorum pelos bulliant, nonūnquam trabes vel ligna in ritâ transnerse collocent, &amp; alia id ge<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>s delmamenta effi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>.</hi> And when they see the succesie, they are more confirm'd, as if the enent followed their working. The like il<g ref="char:EOLhyphen"/>lusion is of their phantasie, in sayling in Egg. shels, creeping through Augur. holes, and such like, so valg or in their confessions.</note>
+                     <hi>Cast them vp; and the Flint stone</hi>
+                  </l>
+                  <l>
+                     <hi>Ouer the left shoulder bone:</hi>
+                  </l>
+                  <l>
+                     <hi>Into the</hi> west.</l>
+               </sp>
+               <sp>
+                  <speaker>HAG.</speaker>
+                  <l>
+                     <hi>It will bee best.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <lg type="magic_spell">
+                     <head>5. CHARME.</head>
+                     <l>
+                        <hi>THE Sticks are a crosse, there can be no losse,</hi>
+                     </l>
+                     <l>
+                        <hi>The Sage is rotten, the Sulphur is gotten</hi>
+                     </l>
+                     <l>
+                        <hi>Vp to the sky, that was t'the ground.</hi>
+                     </l>
+                     <l>
+                        <hi>Follow it then, with our rattles, round;</hi>
+                     </l>
+                     <l>
+                        <hi>Vnder the bramble, ouer the brier,</hi>
+                     </l>
+                     <l>
+                        <hi>A litle more heat will set it on fire:</hi>
+                     </l>
+                     <l>
+                        <hi>Put it in minde, to do it kind,</hi>
+                     </l>
+                     <l>
+                        <hi>Flow water, and blow wind.</hi>
+                     </l>
+                     <l>Rouncy <hi>is ouer,</hi> Robble <hi>is vnder,</hi>
+                     </l>
+                     <l>
+                        <hi>A flash of light, and a clap of thunder,</hi>
+                     </l>
+                     <l>
+                        <hi>A storme of raine, another of hayle.</hi>
+                     </l>
+                     <l>
+                        <hi>VVe all must home, i'the Egg-shell sayle;</hi>
+                     </l>
+                     <l>
+                        <hi>The mast is made of a great pin,</hi>
+                     </l>
+                     <l>
+                        <hi>The tackle of c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>bweb, the sayle as thin,</hi>
+                     </l>
+                     <l>
+                        <hi>And if we go through and not fall in —</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>DAME.</speaker>
+                  <l>
+                     <note n="h" place="margin">Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s stoppe, or interruption shew'd the better, by can<g ref="char:EOLhyphen"/>sing that gene<g ref="char:EOLhyphen"/>ral silence, vvhich made al the follo<g ref="char:EOLhyphen"/>vving <hi>Noyses</hi> en<g ref="char:EOLhyphen"/>forced in the next Charme, more direfull, first imi<g ref="char:EOLunhyphen"/>tating that of <hi>Lu<g ref="char:EOLhyphen"/>can. Maratur Erich<g ref="char:EOLhyphen"/>tho Hayfain licuisse meras; irataque morti Verberat im<g ref="char:EOLhyphen"/>motum viuo serpen<g ref="char:EOLhyphen"/>te cadauer,</hi> and then their bar<g ref="char:EOLhyphen"/>king, hovvling, hissing, and con<g ref="char:EOLhyphen"/>fusion of noyse expressed by the same <hi>Author,</hi> in the same person. <hi>Tune vox Lethaeos cunctis pollentior herbis Excantare deos, confodit murmura prim<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>m Disson a <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> human a multum discordia lingua. Latratus habet illa camim, gemitusque luporum, Quod repidus bubo, quod strin nocturna queruntur, Quod strident vlulantque ferae, quod sibilat anguis Exprimit, et planctus illisae cautibus vnda, Sil<g ref="char:EOLhyphen"/>narum{que} sonum, frasta{que} tonitrua nubis, Tot rerum vox vnafuit, See Renig.</hi> too, <hi>Damon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lat. lib.</hi> 1. <hi>cap.</hi> 19.</note>
+                     <hi>Stay. All our</hi> Charmes <hi>do nothing winne</hi>
+                  </l>
+                  <pb facs="tcp:173152:12"/>
+                  <l>
+                     <hi>Vpon the night; Our labour dies!</hi>
+                  </l>
+                  <l>
+                     <hi>Our</hi> Magick-<hi>feature will not rise;</hi>
+                  </l>
+                  <l>
+                     <hi>Nor yet the storme! VVe must repeate</hi>
+                  </l>
+                  <l>
+                     <hi>More direfull voyces farre, and beate</hi>
+                  </l>
+                  <l>
+                     <hi>The ground with Vipers, till it sweate.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <lg type="magic_spell">
+                     <head>6. CHARME.</head>
+                     <l>
+                        <hi>BArke Dogges, Wolues howle,</hi>
+                     </l>
+                     <l>
+                        <hi>Seas rore, Woods rowle,</hi>
+                     </l>
+                     <l>
+                        <hi>Cloudes crack, all be black,</hi>
+                     </l>
+                     <l>
+                        <hi>But the light our</hi> Charmes <hi>do make.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>DAME.</speaker>
+                  <l>
+                     <hi>NOt yet? My rage beginnes to swell;</hi>
+                  </l>
+                  <l>Darkenesse, Diuells, Night, <hi>and</hi> Hell,</l>
+                  <l>
+                     <hi>Do not thus delay my</hi> Spell.</l>
+                  <l>
+                     <hi>I call you once, and I call you twise;</hi>
+                  </l>
+                  <l>
+                     <hi>I beat you againe, if you stay my thrise:</hi>
+                  </l>
+                  <l>
+                     <hi>Thorough these cranyes, where I peepe,</hi>
+                  </l>
+                  <l>
+                     <note n="i" place="margin">This is one of their common menaces, vvhen tho<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <hi>Magick</hi> re<g ref="char:EOLhyphen"/>coiues the least st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ppe. Heare <hi>Erichtho</hi> againe, <hi>thiddibi pessime mundi Arbiter im<g ref="char:EOLhyphen"/>mittam rupt's Tita<g ref="char:EOLhyphen"/>na cauernis Etsubi<g ref="char:EOLhyphen"/>to feriere die.</hi> And a little before to <hi>Proserpina, Elo<g ref="char:EOLhyphen"/>quar immenso terta sub pordere qua t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> Coutmeant, Enuaea<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> dapet, &amp;c.</hi>
+                     </note>
+                     <hi>I'le let in the light to see your sleep.</hi>
+                  </l>
+                  <l>
+                     <hi>And all the secrets of your sway</hi>
+                  </l>
+                  <l>
+                     <hi>Shall lie as open to the day,</hi>
+                  </l>
+                  <l>
+                     <hi>As vnto me. Still are you deafe?</hi>
+                  </l>
+                  <pb facs="tcp:173152:12"/>
+                  <l>
+                     <hi>Reach me a Bough,</hi>
+                     <note n="k" place="margin">That wither'd streight, as it sho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> out, which is cal<g ref="char:EOLhyphen"/>led <hi>Ramus feralu,</hi> by some, and <hi>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i<g ref="char:EOLhyphen"/>stu,</hi> by <hi>Senec. Trag Med.</hi>
+                     </note>
+                     <hi>that nere bare leafe,</hi>
+                  </l>
+                  <l>
+                     <hi>To strike the aire; and</hi>
+                     <note n="l" place="margin">A deadly poisonous heat be fain'd by <hi>Ouid. Me<g ref="char:EOLhyphen"/>tamo, lib.</hi> 7. to spring out of <hi>Cor<g ref="char:EOLhyphen"/>berus</hi> hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> foame. <hi>Plinie</hi> giues it a<g ref="char:EOLhyphen"/>nother beginning of name. <hi>Nat. H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>st. lib.</hi> 27. <hi>cap.</hi> 3. <hi>Nascitur in nudis cautibus, quas aconas vocant, &amp; inde aconitum dixere, un<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>o iuxtâ ne puluere quidem nutriente.</hi> Howsoeuer the iuice of it is like that liquor which the Diuell giues Witches to sprinkle abroad &amp; do hurt, in the opinion of all the <hi>Magick-masters.</hi>
+                     </note> Aconite,</l>
+                  <l>
+                     <hi>To hurle vpon this glaring light;</hi>
+                  </l>
+                  <l>
+                     <note n="m" place="margin">A rusty knife I rather giue her, then any other, as firtest for such a diuelish Ceremony, which <hi>Seneca</hi> might meane by <hi>sacre cultro</hi> in the <hi>Tragedy,</hi> where he armes <hi>Medea,</hi> to the like <hi>rite,</hi> (for any thing I know) <hi>Tibi nudatopectere M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nas, sacro ferians Brachia cultro: Manet noster sang<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u ad aras.</hi>
+                     </note>
+                     <hi>A rustie knife, to wound mine arme;</hi>
+                  </l>
+                  <l>
+                     <hi>And, as it drops, I'le speake a</hi> Charme,</l>
+                  <l>
+                     <hi>Shall cleaue the ground, as low as lies</hi>
+                  </l>
+                  <l>
+                     <hi>Old Shrunk-vp</hi> Chaos, <hi>and let rise,</hi>
+                  </l>
+                  <l>
+                     <hi>once more, his darke, and reeking head,</hi>
+                  </l>
+                  <l>
+                     <hi>To strike the World, and</hi> Nature <hi>dead,</hi>
+                  </l>
+                  <l>
+                     <hi>Vntill my</hi> Magick <hi>birth be bred.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <lg type="magic_spell">
+                     <head>7. CHARME.</head>
+                     <l>
+                        <hi>BLacke goe in, and blacker come out;</hi>
+                     </l>
+                     <l>
+                        <hi>At thy going downe, we giue thee a shout.</hi>
+                     </l>
+                     <l>
+                        <note n="n" place="margin">These shouts and clamors, as al<g ref="char:EOLhyphen"/>so the voice <hi>Har, Har,</hi> are very par<g ref="char:EOLhyphen"/>ticular with them by the testimony of <hi>Bodin. Remig. Delrio</hi> and <hi>M Phil. Ludvvig us. Elich,</hi> who out of them reports it, thus. <hi>Toru turbā co<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>nui<g ref="char:EOLhyphen"/>es{que}ue pessimo-fesea<g ref="char:EOLhyphen"/>nnines in homer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>m Damen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>w cautat absaniss mes: Hao<g ref="char:EOLhyphen"/>casit</hi> Has. Har. <hi>Illa. Diabole, Diclo le, salta huc, salta illue; Aliera, lude hic, bade illic; Alie, Sabaath, Sabaath. &amp;c. <gap reason="illegible" resp="#keyers" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>, si<g ref="char:EOLhyphen"/>bilo, vlulations, po<g ref="char:EOLhyphen"/>pysmis, furit, ac debec hatur: pul<g ref="char:EOLhyphen"/>uer <gap reason="illegible" resp="#keyers" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>el veaenis accepto qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> homi<g ref="char:EOLhyphen"/>nil as, peoudibusque spargart.</hi>
+                        </note> Hoo!</l>
+                     <l>
+                        <hi>At thy rising againe, thou shalt haue two,</hi>
+                     </l>
+                     <l>
+                        <hi>And if thou dost what, we would haue thee doe,</hi>
+                     </l>
+                     <l>
+                        <hi>Thou shalt haue three, thou shalt haue foure,</hi>
+                     </l>
+                     <l>
+                        <hi>Thou shalt haue ten, thou shalt haue a score.</hi>
+                     </l>
+                     <l>
+                        <hi>Hoo.</hi> Har. Har. <hi>Hoo!</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <lg type="magic_spell">
+                     <head>8 CHARME.</head>
+                     <l>
+                        <hi>ACloud of pitch, a Spurre, and a Switch,</hi>
+                     </l>
+                     <pb facs="tcp:173152:13"/>
+                     <l>
+                        <hi>To hast him away, and a whirle wind play,</hi>
+                     </l>
+                     <l>
+                        <hi>Before, and after, with thander for laughter,</hi>
+                     </l>
+                     <l>
+                        <hi>And stormes for ioy, of the roaring Boy;</hi>
+                     </l>
+                     <l>
+                        <hi>His head of a Drake, his tayle of a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nake.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <lg type="magic_spell">
+                     <head>9. CHARME.</head>
+                     <l>
+                        <hi>About, about, and about,</hi>
+                     </l>
+                     <l>
+                        <hi>Till the mist arise, and the lightes fly out,</hi>
+                     </l>
+                     <l>
+                        <hi>The Images neither be seene, nor felt;</hi>
+                     </l>
+                     <l>
+                        <hi>The wollen burne, and the waxen melt;</hi>
+                     </l>
+                     <l>
+                        <hi>Sprinkle your liquors vpon the ground,</hi>
+                     </l>
+                     <l>
+                        <hi>And into the ayre; around, around.</hi>
+                     </l>
+                     <l>
+                        <hi>Around, around,</hi>
+                     </l>
+                     <l>
+                        <hi>Around, around,</hi>
+                     </l>
+                     <l>
+                        <note n="o" place="margin">Nor do they want <hi>Musiqu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>,</hi> &amp; in strange manner giuen them by the <hi>Diuel,</hi> if we credit their confessions in <hi>Rovig. Daem. lib.</hi> 1. <hi>cap.</hi> 19. Such as the <hi>Sy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>benan Quires</hi> were, which <hi>Athenaeus</hi> remembers out of <hi>Clearchus, Deipnos. lib.</hi> 15. where euery one sung what he would, without hearkeing to his fellow; like the noise of diuerse Oares, falling in the water. But be patient of <hi>Remigius</hi> relation. <hi>Mi<g ref="char:EOLhyphen"/>ris modu illie miscentur, ac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>urbanture omnia, nec vlla oratione satis expr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>i queat, quam strepant sonis inconditu, absur<g ref="char:EOLhyphen"/>dis, as discrepaniobus. Canit hic Damon ad tibiam, vel verties ad contuns, out baculam aliqu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>, quod fertè humire<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> pertum bucca ceu tibiam admouct. Ille pro lyra equi caluariam pussat, ac digitis conerepat. Alius fuste vel clauâgra miore quercum <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>undat, vnde exauditur sonus, ac boaties veluts tymp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ntrum vehementius pulsatorum. Intercinunt ran<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>de, &amp; composite ad litui morem clangore Daemones; ipsumque coelnm fragosa aridaque voes feri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>n.</hi>
+                        </note>
+                        <hi>Till a Musique sound,</hi>
+                     </l>
+                     <l>
+                        <hi>And the pase be found,</hi>
+                     </l>
+                     <l>
+                        <hi>To which we may daunce,</hi>
+                     </l>
+                     <l>
+                        <hi>And our</hi> Charmes <hi>aduance.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>AT which, with a strange, &amp; sodayne Musique they fell into a
+<note n="p" place="margin">The manner also of their Dan<g ref="char:EOLhyphen"/>cing is confest in <hi>
+                        <gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>m. lib.</hi> 2. <hi>cap.</hi> 4. And <hi>Remig. lib.</hi> 1. <hi>cap.</hi> 17. and 18. The Sum of which <hi>M. Philippo. Lud. Elich</hi> relates thus, in his <hi>Damonom. Quast.</hi> 10. <hi>Tripis<g ref="char:EOLhyphen"/>dijs interdum inter satit sacie liborâ &amp; apertâ, interdum obducta laru. i, lin<g ref="char:EOLhyphen"/>teo, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ortice, reticulo, poplo vel alio vela<g ref="char:EOLhyphen"/>mine, ant fa<gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>nari<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> excermculo inuolieta.</hi> And a little after. <hi>Omnta fiunt ritu absurdissin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o, &amp; ab <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mni consisetudine hominum alienissimo, do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>sis inus cem abuersis, &amp; in orbem iunctis n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>anibus, saitando circumeant, perinde sua iactantes capita, vt qui oestro agitantur. Remigiu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> addes out of the confession of <hi>Sibilla Morelia, Gyrum semper in laeuam progreds.</hi> which <hi>Plinte</hi> obsernes in the Priests of <hi>Cybele, Nas. Hist. lib.</hi> 28. <hi>cap.</hi> 2. and to be done with great religion. <hi>Bodm</hi> addes, that they vse broomes in their hands, with which we arm'd our Witches; and here we leaue them.</note>
+                  <hi>Magical Daunce,</hi> full of praeposterous change, and gesticulation, but most applying
+<pb facs="tcp:173152:13"/>to their <hi>property:</hi> who at their meetings, do all things contrary to the custome of Men, dauncing back to back, and hip to hip, their hands ioin'd, and making their circles backward, to the left hand, with strange <hi>phantastique</hi> motions of their heads, and bodyes. All which were excellently imitated by the maker of the <hi>Daunce, M. Hierome Herne,</hi> whose right it is here to be named.</p>
+            </div>
+            <div type="scene">
+               <p>IN the heat of their <hi>Daunce,</hi> on the sodaine, was heard a sound of loud Musique, as if many instruments had made one blast; with which, not onely the <hi>Haggs</hi> themselues, but the <hi>Hell,</hi> into which they ranne, quite vanished, and the whole face of the <hi>Scene</hi> altred, scarse suffering the memory of such a thing: But in the place of it, appeared a glorious, and magnificent Building, figuring the <hi>House of Fame,</hi> in the top of which, were discouered the twelue <hi>Masquers,</hi> sitting vpon a Throne triumphall, erected in forme of a <hi>Pyramide,</hi> and circled with all store of light. From whom a Person, by this time descended, in the furniture of <hi>Perseus,</hi> and, expres<g ref="char:EOLhyphen"/>sing <hi>herotque,</hi> and <hi>masculine Vertue,</hi> began to speake.</p>
+               <pb facs="tcp:173152:14"/>
+               <sp>
+                  <speaker>HEROIQVE VERTVE.</speaker>
+                  <l>
+                     <hi>SO should, at</hi> FAMES <hi>loud sound, and</hi> VERTVES <hi>sight,</hi>
+                  </l>
+                  <l>
+                     <hi>All darke, and enuious Witcheraft fly the light.</hi>
+                  </l>
+                  <l>
+                     <note n="q" place="margin">The An<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ient, expressed a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>raue and mas<g ref="char:EOLhyphen"/>tuline <hi>Ʋertus</hi> in three figures (Of <hi>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ercules, Perseus,</hi> &amp; <hi>Beilerophon,</hi>) Of which wee choose hat of <hi>Perseus,</hi> arm'd as wee haue describ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d him, out of <hi>Hestod. Soute. Here</hi> See <hi>Appo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. dor,</hi> the Gramma. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>an. <hi>lib.</hi> 2. <hi>de Per<g ref="char:EOLhyphen"/>see.</hi>
+                     </note>
+                     <hi>I did not borrow</hi> Hermes <hi>wings, nor aske</hi>
+                  </l>
+                  <l>
+                     <hi>His crooked sword, nor put on</hi> Pluto's <hi>caske,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor on mine arme, aduanc'd wise</hi> Pallas <hi>shield,</hi>
+                  </l>
+                  <l>
+                     <hi>(By which, my face auers'd, in open field</hi>
+                  </l>
+                  <l>
+                     <hi>I slew the</hi> Gorgon) <hi>for an empty name:</hi>
+                  </l>
+                  <l>
+                     <hi>VVhen</hi> Vertue <hi>cut off</hi> Terror, <hi>he gat</hi> Fame.</l>
+                  <l>
+                     <hi>And, if when</hi> Fame <hi>was gotten,</hi> Terror <hi>dy'de,</hi>
+                  </l>
+                  <l>
+                     <hi>VVhat black</hi> Erynnis, <hi>or more Hellish pride,</hi>
+                  </l>
+                  <l>
+                     <hi>Durst arme these</hi> Hags, <hi>now she is grown, and great,</hi>
+                  </l>
+                  <l>
+                     <hi>To thinke they could her glories once defeat?</hi>
+                  </l>
+                  <l>
+                     <hi>I was her Parent, and I am her Strength.</hi>
+                  </l>
+                  <l>Heroique Vertue <hi>sinkes not vnder length</hi>
+                  </l>
+                  <l>
+                     <hi>Of Yeares, or Ages; but is still the same,</hi>
+                  </l>
+                  <l>
+                     <hi>VVhile he preserues, as when he got</hi> good Fame.</l>
+                  <l>
+                     <hi>My Daughter, then, whose glorious House you see</hi>
+                  </l>
+                  <l>
+                     <hi>Built all of sounding brasse, whose Columnes bee</hi>
+                  </l>
+                  <l>
+                     <hi>Men-making</hi> Poets, <hi>and those well made</hi> Men,</l>
+                  <l>
+                     <hi>VVhose strife it was, to haue the happiest pen</hi>
+                  </l>
+                  <l>
+                     <hi>Renowne them to an after-life, and not</hi>
+                  </l>
+                  <l>
+                     <hi>VVith pride, to seorne the</hi> Muse, <hi>and dye forgot;</hi>
+                  </l>
+                  <l>
+                     <hi>She, that inqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>reth into all the world,</hi>
+                  </l>
+                  <l>
+                     <hi>And leath, about her vaulted</hi> Palace, <hi>hoorld</hi>
+                  </l>
+                  <l>
+                     <hi>All rumors and reports, or true, or vaine,</hi>
+                  </l>
+                  <l>
+                     <hi>VVhat vtmost Lands, or deepest Seas containe;</hi>
+                  </l>
+                  <l>
+                     <hi>(But onely hangs great actions on her file)</hi>
+                  </l>
+                  <l>
+                     <hi>She, to this lesser world, and greatest Ile,</hi>
+                  </l>
+                  <l>
+                     <hi>To night sounds</hi> Honor <hi>which she would haue seene</hi>
+                  </l>
+                  <l>
+                     <hi>In yond' bright</hi> Beuie, <hi>each of them a</hi> Queene.</l>
+                  <pb facs="tcp:173152:14"/>
+                  <l>
+                     <hi>Eleuen of them are of times, long gone.</hi>
+                  </l>
+                  <l>Penthesilea, <hi>the braue</hi> Amazon,</l>
+                  <l>
+                     <hi>Swift-foote</hi> Camilla, <hi>Queene of</hi> Volscia,</l>
+                  <l>
+                     <hi>Victorious</hi> Thomyris <hi>of</hi> Scythia,</l>
+                  <l>
+                     <hi>Chast</hi> Artemifia <hi>the</hi> Carian <hi>Dame,</hi>
+                  </l>
+                  <l>
+                     <hi>And faire-hayr'd</hi> Beronice, Aegypts <hi>fame.</hi>
+                  </l>
+                  <l>Hypsicratea, <hi>glory of</hi> Asia,</l>
+                  <l>Candace, <hi>pride of Aethiopia.</hi>
+                  </l>
+                  <l>
+                     <hi>The</hi> Brittanne <hi>honor,</hi> Voadicea,</l>
+                  <l>
+                     <hi>The vertuous</hi> Palmyrene, Zenobia,</l>
+                  <l>
+                     <hi>The wise, and warlike</hi> Goth, Amalafunta,</l>
+                  <l>
+                     <hi>And bold</hi> Valasca, <hi>of</hi> Bohemia.</l>
+                  <l>
+                     <hi>These, in their liues, as fortunes, crown'd the Choyce</hi>
+                  </l>
+                  <l>
+                     <hi>Of VVoman-kind, and gainst all opposite voyce</hi>
+                  </l>
+                  <l>
+                     <hi>Made good to Time, had after death, the clame</hi>
+                  </l>
+                  <l>
+                     <hi>To liue aeternis'd in the House of</hi> Fame.</l>
+                  <l>
+                     <hi>VVhere hourely hearing (as, what there is old?)</hi>
+                  </l>
+                  <l>
+                     <hi>The glories of</hi> BEL-ANNA <hi>so well told,</hi>
+                  </l>
+                  <l>
+                     <hi>Queene of the</hi> Ocean; <hi>How, that she alone</hi>
+                  </l>
+                  <l>
+                     <hi>Possest all vertues, for which One by One</hi>
+                  </l>
+                  <l>
+                     <hi>They were so fam'd; And, wanting then a head</hi>
+                  </l>
+                  <l>
+                     <hi>To forme that sweet, and gracious</hi> Pyramede</l>
+                  <l>
+                     <hi>Wherein they sit, it being the sou'raigne place</hi>
+                  </l>
+                  <l>
+                     <hi>Of all that</hi> Palace, <hi>and reseru'd to grace</hi>
+                  </l>
+                  <l>
+                     <hi>The worthtest Queene: These, without enuy', on her,</hi>
+                  </l>
+                  <l>
+                     <hi>In life, desir'd that honor to conferre,</hi>
+                  </l>
+                  <l>
+                     <hi>Which, with their death, no other should enioy.</hi>
+                  </l>
+                  <l>
+                     <hi>She this embracing with a vertuous ioy,</hi>
+                  </l>
+                  <l>
+                     <hi>Farre from selfe-loue, as humbling all her worth,</hi>
+                  </l>
+                  <l>
+                     <hi>To him that gaue it, hath againe brought forth</hi>
+                  </l>
+                  <l>
+                     <hi>Their Names to memory; and meanes, this night,</hi>
+                  </l>
+                  <l>
+                     <hi>To make them once more visible to light:</hi>
+                  </l>
+                  <pb facs="tcp:173152:15"/>
+                  <l>
+                     <hi>And to that light, from whence her truth of Spirit</hi>
+                  </l>
+                  <l>
+                     <hi>Confesseth all the lustre of her merit.</hi>
+                  </l>
+                  <l>
+                     <hi>To you, most royall, and most happy</hi> King,</l>
+                  <l>
+                     <hi>Of whome,</hi> Fames <hi>house, in euery part, doth ring</hi>
+                  </l>
+                  <l>
+                     <hi>For euery Vertue; But can giue no' increase:</hi>
+                  </l>
+                  <l>
+                     <hi>Not, though her loudest Trumpet blaze your</hi> Peace.</l>
+                  <l>
+                     <hi>To you, that cherish euery great</hi> Example</l>
+                  <l>
+                     <hi>Contracted in your selfe; and being so ample</hi>
+                  </l>
+                  <l>
+                     <hi>A Feild of Henor, cannot but embrace</hi>
+                  </l>
+                  <l>
+                     <hi>A</hi> Spectacle, <hi>so full of loue, and grace</hi>
+                  </l>
+                  <l>
+                     <hi>Vnto your</hi> Court: <hi>where euery</hi> Princely Dame</l>
+                  <l>
+                     <hi>Contends to be as bounteous of her Fame</hi>
+                  </l>
+                  <l>
+                     <hi>To others, as her Life was good to her.</hi>
+                  </l>
+                  <l>
+                     <hi>For, by their Liues, they onely did confer</hi>
+                  </l>
+                  <l>
+                     <hi>Good on themselues; but, by their Fame, to yours,</hi>
+                  </l>
+                  <l>
+                     <hi>And euery Age, the benefit endures.</hi>
+                  </l>
+               </sp>
+               <p>HEre, the Throne wherein they sate, being <hi>Machi<g ref="char:EOLhyphen"/>na versatilis,</hi> sodainly chang'd; and in the place of it appear'd <hi>Fama Bona,</hi> as she is describ'd (in <hi>Iconolog. di Cesare Ripa</hi>) attir'd in white, with white wings, hauing a collar of gold about her neck, and a heart hanging at it: which <hi>Orus Apollo,</hi> in his <hi>Hierogl.</hi> interprets the note of a good Fame. In her right hand, she bore a Trompet, in her left an Oliue branch: And for her State, it was, as
+<note n="r" place="margin">
+                     <hi>Aeneid.</hi> 4.</note>
+                  <hi>Virgil</hi> describes her, at the full, her feet on the ground, and her head in the cloudes. She, after the <hi>Musique</hi> had done, which wayted on the turning of the <hi>Machine,</hi> cal'd from thence, to <hi>Vertue,</hi> and spake this following speech.</p>
+               <pb facs="tcp:173152:15"/>
+               <sp>
+                  <speaker>FAME.</speaker>
+                  <l>VIrtue, <hi>my Father, and my Honor; Thou</hi>
+                  </l>
+                  <l>
+                     <hi>That mad'st mee good, as great; And dar'st auow</hi>
+                  </l>
+                  <l>
+                     <hi>No</hi> Fame, <hi>for thine, but what is perfect: Ayde,</hi>
+                  </l>
+                  <l>
+                     <hi>To night, the triumphes of thy</hi> white-wing'd Mayde.</l>
+                  <l>
+                     <hi>Do those renowned</hi> Queenes <hi>all vimost rites</hi>
+                  </l>
+                  <l>
+                     <hi>Their States can aske. This is a Night of nightes.</hi>
+                  </l>
+                  <l>
+                     <hi>In mine owne</hi> Chariots <hi>let them, crowned, ride;</hi>
+                  </l>
+                  <l>
+                     <hi>And mine owne</hi> Birds, <hi>and</hi> Beastes <hi>in geeres appli de</hi>
+                  </l>
+                  <l>
+                     <hi>To draw them forth. Vnto the first</hi> Carre <hi>tye</hi>
+                  </l>
+                  <l>
+                     <hi>Farre-sighted</hi> Eagles, <hi>to note</hi> Fames sharpe eye.</l>
+                  <l>
+                     <hi>Vnto the second;</hi> Griffons, <hi>that designe</hi>
+                  </l>
+                  <l>Swiftnesse <hi>and</hi> Strength, <hi>two other gifts of mine.</hi>
+                  </l>
+                  <l>
+                     <hi>Vnto the last, our</hi> Lyons, <hi>that implye</hi>
+                  </l>
+                  <l>
+                     <hi>The top of graces,</hi> State, <hi>and</hi> Maiesty.</l>
+                  <l>
+                     <hi>And let those</hi> Haggs <hi>be led as captiues, bound</hi>
+                  </l>
+                  <l>
+                     <hi>Before their wheeles, whilst I my trumpet sound.</hi>
+                  </l>
+               </sp>
+               <p>AT which, the loud Musique sounded, as before; to giue the <hi>Masquers</hi> time of descending. And here, wee cannot but take the opportunity, to make some more particular description of their <hi>Scene,</hi> as also of the <hi>Persons</hi> they presented; which, though they were dis<g ref="char:EOLhyphen"/>posed rather by <hi>chance,</hi> then <hi>election,</hi> yet is it my part to iustifie them all: And then, the <hi>Lady</hi> that will owne her Presentation may.</p>
+               <p>To follow, therefore the, rule of <hi>Chronologie,</hi> which I haue obseru'd in my verse, the most vpward
+<pb facs="tcp:173152:16"/>in time was PENTHESILEA. She was <hi>Queene</hi> of the <hi>Amazons,</hi> &amp; succeeded <hi>Otrera,</hi> or (as some wil) <hi>Orithya;</hi> she liu'd, and was present, at the warre of <hi>Troy</hi> on their part, against the <hi>Greekes,</hi> and (as<seg rend="sup">s</seg>
+                  <hi>Iustine</hi> giues her te<g ref="char:EOLhyphen"/>stimony) <hi>Inter fortissimos viros, magna eius virtutis do<g ref="char:EOLhyphen"/>cumenta extitere.</hi> She is no where nam'd, but with the preface of honor, and vertue; and is alwaies aduanced in the head of the worthiest Women.
+<note n="t" place="margin">
+                     <hi>Hist. lib.</hi> 2.</note>
+                  <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>odorus Sculus</hi> makes her the Daughter of <hi>Mars.</hi> She was ho<g ref="char:EOLhyphen"/>nord in her death to haue it the act of <hi>Achilles.</hi> Of which
+<note n="u" place="margin">
+                     <hi>Lib.</hi> 3. <hi>Eleg.</hi> 10.</note>
+                  <hi>Propertius</hi> sings this Triumph to her beauty.
+<q>
+                     <l>
+                        <hi>Aureacui postquam nudauit cassida frontem,</hi>
+                     </l>
+                     <l>
+                        <hi>Vicit victorem candida forma virum.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>Next, followes CAMILLA, <hi>Queene</hi> of the <hi>Volscians,</hi> celebrated by
+<note n="x" place="margin">
+                     <hi>Aen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d. Lib.</hi> 7.</note>
+                  <hi>Virgil,</hi> then whose <hi>verses</hi> nothing can bee imagin'd more exquisite, or more honouring the person they describe. They are these, where hee reckons vp those, that came on <hi>Turnus</hi> his part, a<g ref="char:EOLhyphen"/>gainst <hi>Aeneas.</hi>
+               </p>
+               <q>
+                  <l>
+                     <hi>Hos super aduenit Volsca de gente Camilla,</hi>
+                  </l>
+                  <l>
+                     <hi>Agmen agens equitum,</hi> &amp; <hi>florenteis aere cateruas,</hi>
+                  </l>
+                  <l>
+                     <hi>Bellatrix. Non illa colo, calathisue Mineruae</hi>
+                  </l>
+                  <l>
+                     <hi>Femineas assueta manus, sed praelia virgo</hi>
+                  </l>
+                  <l>
+                     <hi>Dura pati, cursuque pedum praeuertere ventos.</hi>
+                  </l>
+                  <l>
+                     <hi>Illa vel intactae segetis per summa volaret</hi>
+                  </l>
+                  <l>
+                     <hi>Gramina, nec teneras cursu laesisset aristas:</hi>
+                  </l>
+                  <l>
+                     <hi>Vel mare per medium. fluctu suspensa tumenti,</hi>
+                  </l>
+                  <l>
+                     <hi>Ferretiter, celereis nec tingeret aequore plantas.</hi>
+                  </l>
+               </q>
+               <p>And afterward tels her attire. and <hi>Armes,</hi> with the ad<g ref="char:EOLhyphen"/>miration, that the <hi>Spectators</hi> had of her. All which if the <hi>Poet</hi> created out of himselfe, without <hi>Nature,</hi> he
+<pb facs="tcp:173152:16"/>hee did but shewe, how much so diuine a Soule could exceed her.</p>
+               <p>The third liu'd in the age of <hi>Cyrus,</hi> the great <hi>Persian Mo<g ref="char:EOLhyphen"/>narch;</hi> and made him leaue to liue. THOMYRIS, Queene of the <hi>Scythians,</hi> or <hi>Massagets.</hi> A <hi>Hero<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne</hi> of a most in<g ref="char:EOLhyphen"/>uincible, &amp; vnbroken fortitude. Who, when <hi>Cyrus</hi> had inuaded her, and, taking her onely sonne (rather by trechery, then warre, as shee obiected) had slaine him; not touch'd with the griefe of so great a losse, in the iuster comfort shee tooke of a greater reuenge, pursued not onely the occasion, and honour of conquering so potent an Enemy, with whom fell two hundred thou<g ref="char:EOLhyphen"/>sand Souldiers: but (what was right memorable in her victory) left not a Messenger suruiuing, of his side to report the massacre. She is remembred both by
+<note n="y" place="margin">In Cho.</note>
+                  <hi>He<g ref="char:EOLhyphen"/>rodotus</hi> and
+<note n="z" place="margin">
+                     <hi>Epit. lib.</hi> 1.</note>
+                  <hi>Iustine,</hi> to the great renowne, and glory of her kinde: with this <hi>Elogie.</hi>
+                  <q>
+                     <hi>Quod potentissimo Per<g ref="char:EOLhyphen"/>forum Monarchae bello congressa est, ipsamque &amp; vita &amp; eastris spoli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uit, ad iustè vlciscendam filij eius indignissi<g ref="char:EOLhyphen"/>mam mortem.</hi>
+                  </q>
+               </p>
+               <p>The fourth was honer'd to life in the time of <hi>Xerxes,</hi> and present at his great expedition into <hi>Greece;</hi> ARTR<g ref="char:EOLhyphen"/>MISIA, the Queene of <hi>Caria:</hi> whose vertue
+<note n="a" place="margin">In Poly<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note>
+                  <hi>Herodotus,</hi> not without some wonder, records. That, a Woman, a <hi>Queene,</hi> without a husband, her sonne a ward, and shee administring the gouernement, occasion'd by no necessity, but a meere excellence of spirit, should em<g ref="char:EOLhyphen"/>baique herselfe for such a Warre; and there, so to be<g ref="char:EOLhyphen"/>haue her, as <hi>Xerxes</hi> beholding her fight, should say:
+<note n="b" place="margin">Herod. is Vrania.</note>
+                  <hi>Viri quidem extiterunt <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> feminae, feminae autem vtri.</hi>
+                  <pb facs="tcp:173152:17"/>She is no lesse renowned for her chastity, and loue to her Husband, <hi>Mausolus,</hi>
+                  <note n="c" place="margin">
+                     <hi>Val. Max. lib.</hi> 4. <hi>cap.</hi> 6. and <hi>A G.l. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>b.</hi> 10. <hi>cap.</hi> 18.</note> whose bones (after hee was dead) shee preseru'd in ashes, and drunke in wine making herselfe his Tombe: and, yet, built to his me<g ref="char:EOLhyphen"/>mory a <hi>Monument,</hi> deseruing a place among the <hi>seuen wonders of the World,</hi> which could not be done by lesse then a wonder of Women.</p>
+               <p>The fifth was the faire-hair'd daughter of <hi>Ptolomaeus Philadelphus,</hi> by the elder <hi>Arsinoe;</hi> who, maried to her brother <hi>Ptol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>maeus,</hi> surnamed <hi>Euergetes,</hi> was after <hi>Queene</hi> of <hi>Egypt.</hi> I find her written both BERONICE, &amp; BERENICE. This Lady, vpon an expedition of her new wedded Lord into <hi>Assyria,</hi> vowed to <hi>Venus,</hi> if hee re<g ref="char:EOLhyphen"/>turn'd safe, and conquerer, the offering of her haire; which vow of hers (exacted by the successe) she after<g ref="char:EOLhyphen"/>ward perform'd: But, her Father missing it, and there<g ref="char:EOLhyphen"/>with displeas'd, <hi>Conon,</hi> a <hi>Mathematician,</hi> who was then in household with <hi>Ptolomaee,</hi> and knew well to flatter him, perswaded the king that it was ta'ne vp to heauen, and made a <hi>Constellation;</hi> shewing him those seuen Starres, <hi>ad caudam Leonis,</hi> which are since called <hi>Coma Beronices.</hi> Which story, then presently celebrated by <hi>Callimachus,</hi> in a most elegant <hi>Poeme, Catullus</hi> more elegantly cōuer<g ref="char:EOLhyphen"/>ted; wherin they cal her <hi>the Magnanimous, euen from a Vir<g ref="char:EOLhyphen"/>gin:</hi> alluding (as
+<note n="d" place="margin">
+                     <hi>Astrono<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. lib.</hi> 2. in <hi>Leo.</hi>
+                  </note>
+                  <hi>Hyginus</hi> sayes) to a rescue she made of her Father in his flight, and restoring the courage and honour of his army, euen to a victory. Their words are
+<note n="e" place="margin">Catul. de Coma Ber<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <q>
+                     <hi>Cognoram</hi> à <hi>parua virgine magnanimam.</hi>
+                  </q>
+               </p>
+               <p>The sixth, that famous wife of <hi>Mithridates,</hi> and <hi>Queene</hi> of <hi>Pontus,</hi> HYPSICRATEA, no lesse an exam<g ref="char:EOLhyphen"/>ple of vertue then the rest; who so loued her husband,
+<pb facs="tcp:173152:17"/>as shee was assistant to him in all labors, and hazards of the warre, in a Masculine habite. For which cause (as
+<note n="f" place="margin">
+                     <hi>Lib</hi> 4. <hi>cap.</hi> 6. <hi>de Amor. conug.</hi>
+                  </note>
+                  <hi>Valerius Maximus</hi> obserues) shee departed with a chiefe ornament of her beauty. <hi>Tonsis enim capillis, e<g ref="char:EOLhyphen"/>quo se et armis assuefecit, quo facilius laboribus &amp; periculis eius interesset.</hi> And, afterward, in his flight from <hi>Pom<g ref="char:EOLhyphen"/>pey,</hi> accompanied his misfortune, with a minde, and bo<g ref="char:EOLhyphen"/>dy equally vnwearied. She is solemnely registred, by that graue <hi>Author,</hi> as a notable president of <hi>Mariage<g ref="char:EOLhyphen"/>loyaltie,</hi> and <hi>loue:</hi> vertues, that might raise a meane person to equality with a <hi>Queene;</hi> but a <hi>Queene</hi> to the state, and honour of a <hi>Deity.</hi>
+               </p>
+               <p>The seuenth, that renowne of <hi>Aethiopia,</hi> CANDA<g ref="char:EOLhyphen"/>CE: from whose excellencie, the succeeding <hi>Queenes</hi> of that <hi>Nation</hi> were ambitious to be called so. A woman, of a most haughty spirit against Enemies, and a singu<g ref="char:EOLhyphen"/>lar affection to her Subiects. I finde her celebrated by
+<note n="g" place="margin">
+                     <hi>Hist. Rom. lib.</hi> 54.</note>
+                  <hi>Dion,</hi> and
+<note n="h" place="margin">
+                     <hi>Nat. Hist. lib.</hi> 6. <hi>cap.</hi> 29.</note>
+                  <hi>Plinie,</hi> inuading <hi>Egypt</hi> in the time of <hi>Augu<g ref="char:EOLhyphen"/>stus;</hi> who, though she were enforc'd to a peace by his Lieutenant <hi>Petronius,</hi> doth not the lesse worthily hold her place here; when, euery where, this <hi>Elogie</hi> remaines of her Fame: That she was <hi>Maximi animi multer, tanti<g ref="char:EOLhyphen"/>que in suos meriti, vt omnes deinceps Aethiopum reginae eius nomine fuerint appellatae.</hi> She gouern'd in <hi>Meroe.</hi>
+               </p>
+               <p>The eight, our owne honor, VOADICEA, or BOO<g ref="char:EOLhyphen"/>DICEA; By some BVNDVICA, and BVNDVCA: <hi>Queene</hi> of the <hi>Iceni.</hi> Ap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ople, that inhabited that part of our <hi>Iland</hi> which was called <hi>East-anglia,</hi> and compre<g ref="char:EOLhyphen"/>hended, <hi>Suffolke, Norfolke, Cambridge,</hi> and <hi>Huntington</hi> Shires. Since she was borne here at home, we will first
+<pb facs="tcp:173152:18"/>honor her with a home borne testemony; from the graue and diligent
+<note n="i" place="margin">
+                     <hi>Reu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>no</hi> of Time.</note>
+                  <hi>Spenser.</hi>
+               </p>
+               <q>
+                  <l>— Bundoca <hi>Britonesse,</hi>
+                  </l>
+                  <l>Bunduca, <hi>that victorius Conqueresse,</hi>
+                  </l>
+                  <l>
+                     <hi>That, lifting vp her braue Heroique thought</hi>
+                  </l>
+                  <l>
+                     <hi>Boue womans weaknesse, with the</hi> Romans <hi>sought;</hi>
+                  </l>
+                  <l>
+                     <hi>Fought, and in field against them thrice preuaild: &amp;c.</hi>
+                  </l>
+               </q>
+               <p>To which, see her Orations in story, made by
+<note n="k" place="margin">
+                     <hi>Annal. lib</hi> 14.</note>
+                  <hi>Ta<g ref="char:EOLhyphen"/>citus,</hi> and
+<note n="l" place="margin">
+                     <hi>Ey<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> lo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. Xiph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi> in <hi>Nor.</hi>
+                  </note>
+                  <hi>Dion:</hi> wherin is expressed all magnitude of a spirit, breathing to the libertie and redemption of her Country. The later of whom, doth honest her beside, with a particular description. <hi>Bunduica, Britanica fe<g ref="char:EOLhyphen"/>mina, or ta stirpe regia, quae non solum eis cum magna dig<g ref="char:EOLhyphen"/>nitate praefuit, sed etiam bellum omne administrauit; cuius aninius virilis, potius quā muliebris crat.</hi> And afterwards, <hi>Femina, forma honestissima, vuliu seuero, &amp;c.</hi> All which doth waigh the more to her true praise, in comming from the mouthes of <hi>Romanes,</hi> and Enemies. Shee liu'd in the time of <hi>Nero.</hi>
+               </p>
+               <p>The ninth, in time, but equall in same, and (the cause of it) vertue, was the chast ZENOEIA, <hi>Queene</hi> of the <hi>Palmyrenes,</hi> who, after the death of her husband <hi>O<g ref="char:EOLhyphen"/>denatus,</hi> had the name to be reckoned among the <hi>xxx.</hi> that vsurped the <hi>Romane Empire,</hi> from <hi>Galienus.</hi> She con<g ref="char:EOLhyphen"/>tinued along and braue warre, against seuerall <hi>Chiefes;</hi> and was at length triumphed on by <hi>Aurelian:</hi> but, <hi>easpe<g ref="char:EOLhyphen"/>cie, vt nihil pompabilius. P. Rom. videretur.</hi> Her Chas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity was such, <hi>Vt ne virum suum quidem sciret, nisi tentatis con<g ref="char:EOLhyphen"/>ceptionibus</hi> She liu'd in a most royall manner, and was ador'd to the custome of the <hi>Persians.</hi> When she made Orations to her souldiers, she had alwayes her caske
+<pb facs="tcp:173152:18"/>on A woman of a most diuine spirit, and incredible beautie. In
+<note n="m" place="margin">In trigin, Ty<g ref="char:EOLhyphen"/>rann.</note>
+                  <hi>Trebellius Pollio,</hi> reade the most noble de<g ref="char:EOLhyphen"/>scription of a Queene, and her; that can be vtter'd, with the dignity of an <hi>Historian.</hi>
+               </p>
+               <p>The renth, succeeding, was that learned, and <hi>Her<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<g ref="char:EOLhyphen"/>que</hi> AMALASVNTA, <hi>Queene</hi> of the <hi>Ostrogothes,</hi> Daugh<g ref="char:EOLhyphen"/>ter to <hi>Theodorick,</hi> that obtained the principallity of <hi>Ra<g ref="char:EOLhyphen"/>uenna</hi> and almost all <hi>Italy.</hi> She draue the <hi>Burgundians,</hi> and <hi>Almaines</hi> out of <hi>Liguria,</hi> and appear'd in her go<g ref="char:EOLhyphen"/>uernement rather an <hi>Example,</hi> then a <hi>Second.</hi> She was the most eloquent of her <hi>Age,</hi> and cunning in all Lan<g ref="char:EOLhyphen"/>guages, of any <hi>Nation</hi> that had cōmerce with the <hi>Ro<g ref="char:EOLhyphen"/>mane Emptre.</hi>
+                  <note n="n" place="margin">
+                     <hi>M. Amon. Coo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Sabel.</hi> (out of <hi>Ca<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> sied) Enmad,</hi> 7. <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> It is recorded of her, that, <hi>sine venerati<g ref="char:EOLhyphen"/>one eam viderit nemo, pro miraculo fuerit ipsam audire be<g ref="char:EOLhyphen"/>quentem. Tantaque ill<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in decernendo grauitas, vt <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>nis conuicti, cum plecterentur, nihil sibi acerbum pati vide<g ref="char:EOLhyphen"/>rentur.</hi>
+               </p>
+               <p>The eleuenth was that braue <hi>Bohemian Queene,</hi> VA<g ref="char:EOLhyphen"/>LASCA, who for her courage, had the surname of <hi>bold:</hi> That to redeeme her selfe and her <hi>Sexe,</hi> from the <hi>tyranny</hi> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> men, which they liu'd in, vnder <hi>Primislans,</hi> on a night, &amp; at an houre appointed, led on the womē to the slaugh<g ref="char:EOLhyphen"/>ter of their barbarous <hi>Husbands,</hi> and <hi>Lords.</hi> And, posses<g ref="char:EOLhyphen"/>sing themselues of their Horses, Armes, Treasure, and places of Strength, not onely ruled the rest, but liued many yeares after, with the libertie, and fortitude of <hi>A<g ref="char:EOLhyphen"/>mazons.</hi> Celebrate a by
+<note n="o" place="margin">
+                     <hi>In Geograp. lib.</hi> 7.</note>
+                  <hi>Raphael Volaterranus,</hi> and in an elegant tract of an <hi>Italians</hi>
+                  <note n="p" place="margin">Forcia. Qua<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </note> in <hi>Latine,</hi> (who names himselfe <hi>Philalethe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Polytopiensis ciuis) inter prastantissimas faminas.</hi>
+               </p>
+               <pb facs="tcp:173152:19"/>
+               <p>The twelu'th, and worthy <hi>Soueraigne</hi> of all I make BEL-ANNA, Royall <hi>Queene</hi> of the <hi>Ocean;</hi> of whose dig<g ref="char:EOLhyphen"/>nity, and person the whole <hi>Scope</hi> of the <hi>Inuention</hi> doth speake throughout: which, to offer you againe here, might but proue offence to that sacred Modesty, which heares any testimony of others iterated, with more delight, then her owne praise. She being plac'd aboue the need of such ceremony, &amp; safe in her Prince<g ref="char:EOLhyphen"/>ly vertue, against the good, or ill, of any witnesse. The <hi>Name</hi> of BEL-ANNA I deuis'd, to honor hers proper by; as adding to it, the attribute of <hi>Fatre:</hi> And is kept by me, in all my <hi>Poemes,</hi> wherein I mention her <hi>Maiesty</hi> with any shadow, or figure. Of which, some may come forth with a longer <hi>desteny,</hi> then this <hi>Age,</hi> commonly, giues to the best Births, if but help'd to light by her gratious, and ripening fauour.</p>
+               <p>But, here, I discerne a possible obiection, arising a<g ref="char:EOLhyphen"/>gainst me; to which I must turne: As, <hi>How I can bring</hi> Persons <hi>of so different</hi> Ages, <hi>to appeare properly toge<g ref="char:EOLhyphen"/>thers or, why (which is more vnnaturall) with</hi> Virgil's <hi>Mezentius, I ioyne the liuing with the dead?</hi> I answere to both these, at once. Nothing is more proper; No<g ref="char:EOLhyphen"/>thing more naturall. For these all liue; and together, in their <hi>Fame:</hi> &amp; so I present them. Besides, if I would fly to the all-daring power of <hi>Poetry,</hi> where could I not take Sanctuary? or in whose <hi>Poeme?</hi> For other obie<g ref="char:EOLhyphen"/>ctions, let the lookes and noses of Iudges houer thick; so they bring the braines: or if they do not, I care not. When I suffer'd it to goe abroad, I departed with my right: And now, so secure an Interpreter I am of my chance, that neither praise, nor dispraise shal affect me.</p>
+               <pb facs="tcp:173152:19"/>
+               <p>There rests, only, that we giue the description (we promis'd) of the <hi>Scene,</hi> which was the House of <hi>Fame.</hi> The Structure, and Ornament of which (as is profest before) was entirely M<seg rend="sup">r</seg>. <hi>Iones</hi> his inuention, and de<g ref="char:EOLhyphen"/>signe. First, for the lower Columnes, he chose the <hi>Sta<g ref="char:EOLhyphen"/>tues</hi> of the most excellent <hi>Poets,</hi> as <hi>Homer, Virgil, Lucan,</hi> &amp;c. as being the substantiall supporters of <hi>Fame.</hi> For the vpper, <hi>Achilles, Aeneas, Caesar,</hi> and those great <hi>He<g ref="char:EOLhyphen"/>roes,</hi> which these <hi>Poets</hi> had celebrated. All which stood, as in massy gold. Betweene the Pillars, vnder<g ref="char:EOLhyphen"/>neath, were figur'd <hi>Land-battayles, Sea-fights, Triumphs, Loues, Sacrifices,</hi> and all magnificent subiects of honor: in brasse, and heighten'd with siluer. In which, he pro<g ref="char:EOLhyphen"/>fest to follow that noble description, made by <hi>Chaucer,</hi> of the place. Aboue were sited the <hi>Masquers,</hi> ouer whose heads he deuis'd two eminēt Figures of <hi>Honor,</hi> &amp; <hi>Vertue,</hi> for the <hi>Arch.</hi> The <hi>Freezes,</hi> both below, &amp; aboue, were filld with seueral-color'd lights, like <hi>Emeralds, Ru<g ref="char:EOLhyphen"/>bies, Saphyres, Carbuncles,</hi> &amp;c. the reflexe of which, with other lights, placed in the Concaue, vpon the <hi>Masquers</hi> habits, was full of glory. These habits had in them the excellency of all deuice, and riches; and were worthi<g ref="char:EOLhyphen"/>ly varied by his inuention, to the <hi>Nations,</hi> whereof they were <hi>Queenes.</hi> Nor are these, alone, his due; but diuers other accessions to the strangenesse, and beauty of the <hi>Spectacle:</hi> as the <hi>Hell,</hi> the going about of the <hi>Chariots,</hi> the binding the <hi>Witches,</hi> the turning <hi>Machine,</hi> with the presentation of <hi>Fame.</hi> All which I willingly acknow<g ref="char:EOLhyphen"/>ledge for him: since it is a vertue, planted in good na<g ref="char:EOLhyphen"/>tures, that what respects they wish to obtaine fruitful<g ref="char:EOLhyphen"/>ly from others, they will giue ingenuously themselues.</p>
+               <p>By this time, imagine the <hi>Masquers</hi> descended; and
+<pb facs="tcp:173152:20"/>againe mounted into three triumphant <hi>Chariots,</hi> ready to come forth. The first foure were drawne with <hi>Ea<g ref="char:EOLhyphen"/>gles,</hi> (whereof I gaue the reason, as of the rest, in <hi>Fames</hi> speech) their foure Torchbearers, attending on the <hi>Cha<g ref="char:EOLhyphen"/>riot</hi> sides, and foure of the <hi>Hagges,</hi> bound before them. Then followed the second, drawne by <hi>Griffons,</hi> with their Torch-bearers, and foure other <hi>Hagges.</hi> Then the last, which was drawne by <hi>Lyons,</hi> and more eminent; (wherein her Maiesty was) and had sixe Torch-bearers more, (peculiar to her) with the like number of <hi>Haggs.</hi> After which, a full triumphant <hi>Musique,</hi> singing this <hi>Song,</hi> while they rode, in State, about the stage.</p>
+               <sp>
+                  <lg type="song">
+                     <head>SONG.</head>
+                     <l>
+                        <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lpe, helpe all tongues, to celebrate this wonder:</hi>
+                     </l>
+                     <l>
+                        <hi>The voice of FAME should be as l<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>d as thonder.</hi>
+                     </l>
+                     <l>
+                        <hi>Her House is all of</hi> echo <hi>made,</hi>
+                     </l>
+                     <l>
+                        <hi>Where neuer dyes the sound;</hi>
+                     </l>
+                     <l>
+                        <hi>And, as her browes the cloudes inuade,</hi>
+                     </l>
+                     <l>
+                        <hi>Her feete do strike the ground.</hi>
+                     </l>
+                     <l>
+                        <hi>Sing then</hi> good Fame, <hi>that's out of</hi> Vertue <hi>borne:</hi>
+                     </l>
+                     <l>
+                        <hi>For, who doth</hi> Fame <hi>neglect, doth</hi> Vertue <hi>sco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ne.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>Here they lighted from their <hi>Chari<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts,</hi> and daunc'd forth their first <hi>Daunce;</hi> then a second, immediatly follo<g ref="char:EOLhyphen"/>wing it: both right curious, and full of subtile and ex<g ref="char:EOLhyphen"/>cellent changes, and seem'd perform'd with no lesse spirits, then of those they personated. The first was to the <hi>Cornets,</hi> the second to the <hi>Vyolenes.</hi> After which,
+<pb facs="tcp:173152:20"/>they tooke out the men, and daunc'd the <hi>Measures;</hi> en<g ref="char:EOLhyphen"/>tertaining the time, almost to the space of an houre, with singular variety: when, to giue them rest, from the <hi>Musique</hi> which attended the <hi>Chariots,</hi> by that most ex<g ref="char:EOLhyphen"/>cellent <hi>tenor</hi> voyce, and exact singer (her Maiesties ser<g ref="char:EOLhyphen"/>uant, <hi>M. Io. Allin</hi>) this <hi>Ditty</hi> was song.</p>
+               <sp>
+                  <lg type="song">
+                     <head>SONG.</head>
+                     <l>
+                        <hi>VVHen all the</hi> Ages <hi>of the earth</hi>
+                     </l>
+                     <l>
+                        <hi>Were crown'd, but in this</hi> famous Birth;</l>
+                     <l>
+                        <hi>And that, when they would boast their store</hi>
+                     </l>
+                     <l>
+                        <hi>Of</hi> worthy Queenes, <hi>they knew no more:</hi>
+                     </l>
+                     <l>
+                        <hi>How happier is that</hi> Age, <hi>can giue</hi>
+                     </l>
+                     <l>
+                        <hi>A</hi> Queene, <hi>in whom all they do liue!</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>After it, succeeded their third <hi>Daunce;</hi> then which, a more <hi>numerous</hi> composition could not be seene: <hi>Gra<g ref="char:EOLhyphen"/>phically</hi> disposed into <hi>Letters,</hi> &amp; honouring the Name of the most sweete and ingenious <hi>Prince, Charles, Duke</hi> of <hi>Yorke.</hi> Wherein, beside that principall grace of per<g ref="char:EOLhyphen"/>spicuity, the Motions were so euen and apt, and their expression so iust; as if <hi>Mathematicians</hi> had lost <hi>Proporti<g ref="char:EOLhyphen"/>on,</hi> they might there haue found it. The <hi>Author</hi> was <hi>M. Tho. Giles.</hi> After this, they daunc'd Galliards, and Cor<g ref="char:EOLhyphen"/>rantos. And then their last <hi>Daunce,</hi> no lesse elegant (in the place) then the rest. with which they tooke their <hi>Chariots</hi> againe, and triumphing about the Stage, had their returne to the <hi>House of Fame</hi> celebrated with this last <hi>Song;</hi> whose Notes (as the former) were the worke, and honor of my excellent friend, <hi>Alfonso <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>errabosco.</hi>
+               </p>
+               <sp>
+                  <lg type="song">
+                     <pb facs="tcp:173152:21"/>
+                     <head>SONG.</head>
+                     <l>
+                        <hi>WHo,</hi> Virtue, <hi>can thy power forget,</hi>
+                     </l>
+                     <l>
+                        <hi>That sees these liue, and triumph yet?</hi>
+                     </l>
+                     <l>
+                        <hi>Th'</hi> Assyrian <hi>pompe, the</hi> Persian <hi>pride,</hi>
+                     </l>
+                     <l>Greekes <hi>glory, and the</hi> Romans <hi>dy'de:</hi>
+                     </l>
+                     <l>
+                        <hi>And who yet imitate</hi>
+                     </l>
+                     <l>
+                        <hi>Their noyses, tary the same fate.</hi>
+                     </l>
+                     <l>
+                        <hi>Force Greatnesse ad the glorious wayes</hi>
+                     </l>
+                     <l>
+                        <hi>You can, it soone decayes;</hi>
+                     </l>
+                     <l>
+                        <hi>But so</hi> good Fame <hi>shall neuer:</hi>
+                     </l>
+                     <l>
+                        <hi>Her Triumphs, as their causes, are for euer.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>To conclude which, I know no worthier way of <hi>Epi<g ref="char:EOLhyphen"/>logue,</hi> then the celebration of who were the <hi>Celebra<g ref="char:EOLhyphen"/>ters.</hi>
+               </p>
+               <list>
+                  <item>The QVEENES MAIESTY.</item>
+                  <item>The Co. of ARVNDELL.</item>
+                  <item>The Co. of DERBY.</item>
+                  <item>The Co. of HVNTINGTON.</item>
+                  <item>The Co. of BEDFORD.</item>
+                  <item>The Co. of ESSEX.</item>
+                  <item>The Co. of MONTGOMERY.</item>
+                  <item>The Vico. CRANBORNE.</item>
+                  <item>The La. EL. GVILFORD.</item>
+                  <item>The La. ANNE WINTER.</item>
+                  <item>The La. WINDSORE.</item>
+                  <item>The La. ANNE CLIFFORD.</item>
+               </list>
+            </div>
+            <trailer>The end.</trailer>
+            <pb facs="tcp:173152:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
